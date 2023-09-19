@@ -21,9 +21,17 @@ cdm$person %>%
   computeQuery() %>%
   invisible()
 
+# cdm snapshot ----
+write.csv(
+  x = snapshot(cdm),
+  file = here("Results", paste0("snapshot_", cdmName(cdm), ".csv")),
+  row.names = FALSE
+)
+
 # Create pattern ----
 info(logger, 'CREATING VALID PATTERN FILE')
-patternSummary <- patternTable(cdm, TRUE)
+patternSummary <- patternTable(cdm, TRUE) %>%
+  mutate(cdm_name = cdmName(cdm))
 write.csv(
   x = patternSummary,
   file = here("Results", paste0("pattern_", cdmName(cdm), ".csv")),
