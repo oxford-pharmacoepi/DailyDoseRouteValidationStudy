@@ -1,3 +1,19 @@
+# Create cdm object
+
+cdm <- cdmFromCon(
+  con = db,
+  cdmSchema = c(schema = cdmSchema),
+  writeSchema = c(schema = writeSchema, prefix = writePrefix),
+  cdmName = dbName
+)
+
+# check that you can create temp tables
+cdm$person %>%
+  head(1) %>%
+  computeQuery() %>%
+  invisible()
+
+
 # Create zip file
 zipName <- paste0(db.name,"_Results")
 tempDir <- zipName

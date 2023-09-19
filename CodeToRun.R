@@ -4,36 +4,24 @@ renv::activate()
 renv::restore()
 
 # Required packages
-library(CDMConnector)
 library(DBI)
 library(here)
 library(log4r)
 library(do)
 library(tidyverse)
+library(CDMConnector)
+library(DrugUtilisation)
 
 # Connect to database
-# Please fill with your own database information
-server_dbi <- Sys.getenv("...")
-user       <- Sys.getenv("...")
-password   <- Sys.getenv("...")
-port       <- Sys.getenv("...")
-host       <- Sys.getenv("...")
+# please see examples to connect here:
+# https://darwin-eu.github.io/CDMConnector/articles/a04_DBI_connection_examples.html
+db <- dbConnect("...")
 
-db <- dbConnect("...",
-                dbname = server_dbi,
-                port = port,
-                host = host,
-                user = user,
-                password = password
-)
-
-cdm <- cdm_from_con(
-  db,
-  cdm_schema = "...",
-  write_schema = "..."
-)
-
-db.name <- "..."
+# parameters to connect to create cdm object
+cdmSchema <- "..." # schema where cdm tables are located
+writeSchema <- "..." # schema with writing permission
+writePrefix <- "..." # combination of at least 5 letters + _ (eg. "abcde_") that will lead any table written in the cdm
+dbName <- "..." # name of the database, use acronym in capital letters (eg. "CPRD GOLD")
 
 # Run the code
 source(here::here("RunCoverage.R"))
