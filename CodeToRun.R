@@ -1,10 +1,11 @@
-# This is the only file the user has to interact with
+# Please restore the renv file first:
+# if you have not installed renv, please first install: install.packages("renv")
+renv::activate()
+renv::restore()
 
 # Required packages
 library(CDMConnector)
-library(dplyr)
 library(DBI)
-library(dbplyr)
 library(here)
 library(log4r)
 library(do)
