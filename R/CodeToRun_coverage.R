@@ -35,4 +35,4 @@ cdm <- cdm_from_con(
 db.name <- "..."
 
 # Run the code
-source(here::here("patterns","RunCoverage.R"))
+source(here::here("RunCoverage.R"))
