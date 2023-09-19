@@ -1,0 +1,38 @@
+# This is the only file the user has to interact with
+
+# Required packages
+library(CDMConnector)
+library(dplyr)
+library(DBI)
+library(dbplyr)
+library(here)
+library(log4r)
+library(do)
+library(tidyverse)
+
+# Connect to database
+# Please fill with your own database information
+server_dbi <- Sys.getenv("...")
+user       <- Sys.getenv("...")
+password   <- Sys.getenv("...")
+port       <- Sys.getenv("...")
+host       <- Sys.getenv("...")
+
+db <- dbConnect("...",
+                dbname = server_dbi,
+                port = port,
+                host = host,
+                user = user,
+                password = password
+)
+
+cdm <- cdm_from_con(
+  db,
+  cdm_schema = "...",
+  write_schema = "..."
+)
+
+db.name <- "..."
+
+# Run the code
+source(here::here("patterns","RunCoverage.R"))
