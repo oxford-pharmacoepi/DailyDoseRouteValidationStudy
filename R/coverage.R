@@ -33,7 +33,7 @@ rownames <- c("count","total","coverage")
 results_strength <- cbind(rownames,results_strength_help) %>%
   pivot_wider(names_from = rownames, values_from = n )
 
-write.csv(results_strength, here::here(tempDir,"results_strength.csv"))
+write.csv(results_strength, here::here("results_strength.csv"))
 
 
 ## coverage of valid patterns in drug exposure table
@@ -60,4 +60,4 @@ rownames <- c("count","total","coverage")
 results_exposure <- cbind(rownames,results_exposure_help) %>%
   pivot_wider(names_from = rownames, values_from = n )
 
-write.csv(results_exposure, here::here(tempDir,"results_exposure.csv"))
+write.csv(results_exposure, here::here("results_exposure.csv"))
