@@ -24,4 +24,4 @@ writePrefix <- "..." # combination of at least 5 letters + _ (eg. "abcde_") that
 dbName <- "..." # name of the database, use acronym in capital letters (eg. "CPRD GOLD")
 
 # Run the code
-source(here::here("RunAnalysis.R"))
+source(here("RunAnalysis.R"))

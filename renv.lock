@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.2.3",
+    "Version": "4.2.1",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -54,8 +54,13 @@
     "DrugUtilisation": {
       "Package": "DrugUtilisation",
       "Version": "0.3.2",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "DrugUtilisation",
+      "RemoteUsername": "darwin-eu-dev",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "e7da605fa263d0eca9cdea828aa3ab2bed655855",
       "Requirements": [
         "CDMConnector",
         "DBI",
@@ -73,7 +78,7 @@
         "rlang",
         "tidyr"
       ],
-      "Hash": "e035bbb9383b13c89dd6127ecbbb0545"
+      "Hash": "c3356eb1839b52e7e1c788f597f58d67"
     },
     "MASS": {
       "Package": "MASS",
@@ -156,6 +161,25 @@
         "methods"
       ],
       "Hash": "cd79d1874fb20217463451f8c310c526"
+    },
+    "RPostgres": {
+      "Package": "RPostgres",
+      "Version": "1.4.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "DBI",
+        "R",
+        "Rcpp",
+        "bit64",
+        "blob",
+        "hms",
+        "lubridate",
+        "methods",
+        "plogr",
+        "withr"
+      ],
+      "Hash": "310ecf7e20c4a927bcfd5e625f70eb4c"
     },
     "Rcpp": {
       "Package": "Rcpp",
@@ -1077,6 +1101,13 @@
         "utils"
       ],
       "Hash": "01f28d4278f15c76cddbea05899c5d6f"
+    },
+    "plogr": {
+      "Package": "plogr",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "09eb987710984fc2905c7129c7d85e65"
     },
     "pool": {
       "Package": "pool",

@@ -14,14 +14,15 @@ cdm <- cdmFromCon(
   cdmName = dbName
 )
 
-info(logger, 'CHECK TEMP TABLE PERMISSION')
 # check that you can create temp tables
+info(logger, 'CHECK TEMP TABLE PERMISSION')
 cdm$person %>%
   head(1) %>%
   computeQuery() %>%
   invisible()
 
 # cdm snapshot ----
+info(logger, 'CREATE SNAPSHOT')
 write.csv(
   x = snapshot(cdm),
   file = here("Results", paste0("snapshot_", cdmName(cdm), ".csv")),
