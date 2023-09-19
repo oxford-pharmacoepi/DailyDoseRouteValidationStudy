@@ -7,7 +7,7 @@ renv::restore()
 library(DBI)
 library(here)
 library(log4r)
-library(do)
+library(zip)
 library(tidyverse)
 library(CDMConnector)
 library(DrugUtilisation)
@@ -24,4 +24,4 @@ writePrefix <- "..." # combination of at least 5 letters + _ (eg. "abcde_") that
 dbName <- "..." # name of the database, use acronym in capital letters (eg. "CPRD GOLD")
 
 # Run the code
-source(here::here("RunCoverage.R"))
+source(here::here("RunAnalysis.R"))
