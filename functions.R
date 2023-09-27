@@ -54,7 +54,7 @@ dailyDosePatternCoverage <- function(cdm,
       )
     )) %>%
     dplyr::filter(
-      !(.data$strata_name %in% c("Overall", "route")) |
+      grepl("unit", .data$strata_name) |
         .data$variable != "daily_dose" |
         .data$estimate_type %in% c("count", "percentage")
     )
