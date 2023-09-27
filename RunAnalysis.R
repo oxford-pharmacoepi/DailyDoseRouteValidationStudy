@@ -42,6 +42,15 @@ write.csv(
 )
 info(logger, 'PATTERN FILE CREATED')
 
+# Pattern checks
+info(logger, 'DOING DENOMINATOR CHECK')
+source(here::here("denominator_check.R"))
+info(logger, 'DOING NUMERATOR CHECK')
+source(here::here("numerator_check.R"))
+info(logger, 'DOING NEW CHECK')
+source(here::here("new_check.R"))
+info(logger, 'CHECKS DONE')
+
 # route ----
 info(logger, 'SUMMARY ROUTE')
 routeSummary <- cdm$drug_exposure %>%
