@@ -1,3 +1,5 @@
+source(here("functions.R"))
+
 # Start log ----
 resultsFolder <- here("Results")
 log_file <- paste0(resultsFolder, "/log.txt")
@@ -61,7 +63,7 @@ info(logger, 'ROUTE SUMMARISED')
 # coverage ----
 info(logger, 'DOSE COVERAGE')
 ingredients <- c(956874, 1106776, 1137529, 1301025, 1503297)
-doseCoverage <- suppressWarnings(dailyDoseCoverage(cdm, ingredients))
+doseCoverage <- dailyDosePatternCoverage(cdm, ingredients)
 write.csv(
   x = doseCoverage,
   file = here("Results", paste0("dose_", cdmName(cdm), ".csv")),
