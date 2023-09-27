@@ -20,11 +20,11 @@ dailyDosePatternCoverage <- function(cdm,
       end = "drug_exposure_end_date"
     ) + 1) %>%
     dplyr::left_join(
-      drugStrengthPattern(cdm = cdm, ingredientConceptId = ingredientConceptId),
+      DrugUtilisation:::drugStrengthPattern(cdm = cdm, ingredientConceptId = ingredientConceptId),
       by = "drug_concept_id"
     ) %>%
-    standardUnits() %>%
-    applyFormula() %>%
+    DrugUtilisation:::standardUnits() %>%
+    DrugUtilisation:::applyFormula() %>%
     dplyr::select(
       "drug_concept_id", "daily_dose", "unit", "route", "pattern_id",
       "concept_id" =  "ingredient_concept_id"
