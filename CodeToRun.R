@@ -10,6 +10,7 @@ library(log4r)
 library(zip)
 library(tidyverse)
 library(CDMConnector)
+library(PatientProfiles)
 library(DrugUtilisation)
 
 # Connect to database
