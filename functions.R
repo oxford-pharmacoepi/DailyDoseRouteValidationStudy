@@ -1,7 +1,7 @@
 dailyDosePatternCoverage <- function(cdm,
                                      ingredientConceptId) {
   # initial checks
-  checkInputs(cdm = cdm)
+  DrugUtilisation:::checkInputs(cdm = cdm)
 
   # get concepts
   concepts <- cdm[["concept_ancestor"]] %>%
@@ -19,10 +19,14 @@ dailyDosePatternCoverage <- function(cdm,
       start = "drug_exposure_start_date",
       end = "drug_exposure_end_date"
     ) + 1) %>%
+    CDMConnector::computeQuery() %>%
     dplyr::left_join(
-      DrugUtilisation:::drugStrengthPattern(cdm = cdm, ingredientConceptId = ingredientConceptId),
+      DrugUtilisation:::drugStrengthPattern(
+        cdm = cdm, ingredientConceptId = ingredientConceptId
+      ),
       by = "drug_concept_id"
     ) %>%
+    CDMConnector::computeQuery() %>%
     DrugUtilisation:::standardUnits() %>%
     DrugUtilisation:::applyFormula() %>%
     dplyr::select(
@@ -39,24 +43,27 @@ dailyDosePatternCoverage <- function(cdm,
 
   # summarise
   dailyDoseSummary <- dailyDose %>%
-    suppressWarnings(PatientProfiles::summariseResult(
+    PatientProfiles::summariseResult(
       group = list("ingredient_name"),
       includeOverallGroup = FALSE,
-      strata = list(
-        "pattern_id", "route", c("route", "pattern_id"),
-        c("unit", "pattern_id"), c("route", "unit", "pattern_id")
-      ),
+      strata = list("pattern_id", "route", c("route", "pattern_id")),
       includeOverallStrata = TRUE,
       variables = "daily_dose",
-      functions = c(
-        "missing", "mean", "sd", "min", "q05", "q25", "median", "q75", "q95",
-        "max"
-      )
-    )) %>%
-    dplyr::filter(
-      grepl("unit", .data$strata_name) |
-        .data$variable != "daily_dose" |
-        .data$estimate_type %in% c("count", "percentage")
+      functions = c("missing")
+    ) %>%
+    dplyr::union_all(
+      dailyDose %>%
+        PatientProfiles::summariseResult(
+          group = list("ingredient_name"),
+          includeOverallGroup = FALSE,
+          strata = list(c("unit", "pattern_id"), c("route", "unit", "pattern_id")),
+          includeOverallStrata = TRUE,
+          variables = "daily_dose",
+          functions = c(
+            "missing", "mean", "sd", "min", "q05", "q25", "median", "q75", "q95",
+            "max"
+          )
+        )
     )
 
   return(dailyDoseSummary)
