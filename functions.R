@@ -56,7 +56,10 @@ dailyDosePatternCoverage <- function(cdm,
         PatientProfiles::summariseResult(
           group = list("ingredient_name"),
           includeOverallGroup = FALSE,
-          strata = list(c("unit", "pattern_id"), c("route", "unit", "pattern_id")),
+          strata = list(
+            "unit", c("unit", "pattern_id"), c("route", "unit", "pattern_id"),
+            c("unit", "route")
+          ),
           includeOverallStrata = TRUE,
           variables = "daily_dose",
           functions = c(
