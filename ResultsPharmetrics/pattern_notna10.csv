@@ -1,0 +1,294 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",0.75,2
+"2",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",1,3
+"3",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",1,3
+"4",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",1,1
+"5",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",1,1
+"6",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",1,6
+"7",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1,33
+"8",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",1,11
+"9",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",1.25,37
+"10",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",1.25,5
+"11",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1.5,2
+"12",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",2.5,1
+"13",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",2.5,1
+"14",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",2.5,4
+"15",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",2.5,2
+"16",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",2.5,18
+"17",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",2.5,11
+"18",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",3,1
+"19",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",3.75,2
+"20",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",5,1
+"21",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",5,4
+"22",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",5,19
+"23",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",5,1
+"24",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",5,4
+"25",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",7.5,1
+"26",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",7.5,1
+"27",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",7.5,1
+"28",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",10,2
+"29",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",10,1
+"30",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",10,4
+"31",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",12.5,1
+"32",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",15,1
+"33",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",15,4
+"34",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",15,2
+"35",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",15,1
+"36",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",15,22
+"37",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",15,17
+"38",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",17.5,1
+"39",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",17.5,2
+"40",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",17.5,1
+"41",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",18.75,27
+"42",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",18.75,40
+"43",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",20,49
+"44",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",20,2
+"45",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",20,18
+"46",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",20,1
+"47",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",23.75,1
+"48",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",24,1
+"49",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",25,22
+"50",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",25,5
+"51",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",25,23
+"52",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",25,11
+"53",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",27.5,2
+"54",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",28.75,1
+"55",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",30,114
+"56",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",30,67
+"57",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",30,104
+"58",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",30,8
+"59",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",30,105
+"60",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",30,91
+"61",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",30,686
+"62",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",30,5
+"63",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",30,13
+"64",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",35,1
+"65",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",35,2
+"66",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",35,17
+"67",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",35,4
+"68",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",37,1
+"69",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",37.5,2425
+"70",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",37.5,2284
+"71",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",37.5,11
+"72",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",37.5,6
+"73",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",37.5,13
+"74",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",38,1
+"75",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",38,36
+"76",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",38,3
+"77",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",40,2
+"78",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",40,1
+"79",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",40,2
+"80",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",42.5,1
+"81",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",42.5,1
+"82",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",45,2
+"83",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",45,1
+"84",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",45,1
+"85",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",45,3
+"86",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",47.5,1
+"87",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",50,11
+"88",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",50,9
+"89",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",50,4
+"90",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",50,15
+"91",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",56,1
+"92",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",56.25,9
+"93",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",56.25,4
+"94",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",60,48
+"95",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",60,13
+"96",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",60,22
+"97",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",60,6
+"98",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",60,15
+"99",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",60,25
+"100",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",60,89
+"101",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",60,4
+"102",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",62,3
+"103",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",62.5,1
+"104",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",62.5,17
+"105",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",62.5,3
+"106",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",62.5,8
+"107",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",70,2
+"108",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",70,4
+"109",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",70,4
+"110",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",70,2
+"111",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",75,1007
+"112",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",75,852
+"113",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",75,5225
+"114",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",75,196
+"115",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",75,4010
+"116",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",75,4315
+"117",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",75,176
+"118",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",75,3
+"119",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",75,16
+"120",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",77.5,1
+"121",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",80,4
+"122",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",80,14
+"123",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",85,3
+"124",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",85,1
+"125",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",85,7
+"126",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",85,6
+"127",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",87.5,3
+"128",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",90,9
+"129",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",90,14
+"130",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",90,48
+"131",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",90,13
+"132",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",90,1
+"133",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",90,76
+"134",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",90,2
+"135",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",90,7
+"136",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",93.75,4
+"137",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",93.75,5
+"138",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",100,2
+"139",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",100,2
+"140",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",100,7
+"141",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",110,1
+"142",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",110,5
+"143",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",111,2
+"144",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",112.5,500
+"145",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",112.5,379
+"146",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",112.5,32
+"147",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",112.5,1
+"148",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",112.5,15
+"149",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",112.5,26
+"150",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",113,2
+"151",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",115,2
+"152",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",120,1
+"153",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",120,5
+"154",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",120,7
+"155",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",120,1
+"156",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",120,1
+"157",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",120,10
+"158",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",125,6
+"159",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",125,2
+"160",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",125,5
+"161",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",125,4
+"162",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",130,4
+"163",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",135,1
+"164",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",135,1
+"165",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",135,4
+"166",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",140,12
+"167",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",150,89
+"168",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",150,83
+"169",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",150,2279
+"170",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",150,136
+"171",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",150,1373
+"172",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",150,1675
+"173",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",150,37024
+"174",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",150,1335
+"175",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",150,2366
+"176",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",170,19
+"177",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",170,3
+"178",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",180,4
+"179",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",180,3
+"180",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",180,1
+"181",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",180,28
+"182",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",187.5,3
+"183",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",187.5,1
+"184",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",187.5,11
+"185",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",187.5,2
+"186",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",187.5,3
+"187",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",190,10
+"188",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",202.5,1
+"189",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",215,2
+"190",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",220,3
+"191",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",220,5
+"192",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",225,103
+"193",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",225,86
+"194",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",225,1375
+"195",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",225,113
+"196",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",225,696
+"197",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",225,487
+"198",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",225,320
+"199",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",225,20
+"200",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",225,26
+"201",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",250,8
+"202",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",250,2
+"203",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",262.5,1
+"204",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",262.5,3
+"205",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",270,1
+"206",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",270,5
+"207",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",280,4
+"208",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",280,1
+"209",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",290,2
+"210",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",300,6
+"211",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",300,2
+"212",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",300,164
+"213",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",300,19
+"214",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",300,58
+"215",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",300,28
+"216",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",300,9739
+"217",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",300,613
+"218",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",300,666
+"219",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",325,1
+"220",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",325,1
+"221",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",337.5,20
+"222",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",337.5,16
+"223",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",337.5,2
+"224",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",337.5,7
+"225",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",340,2
+"226",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",357.5,1
+"227",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",357.5,4
+"228",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",357.5,1
+"229",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",360,2
+"230",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",375,6
+"231",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",375,17
+"232",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",375,2
+"233",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",375,4
+"234",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",375,9
+"235",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",393.75,1
+"236",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",425,1
+"237",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",435,1
+"238",45892519,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel",450,6
+"239",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",450,5
+"240",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",450,237
+"241",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",450,9
+"242",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",450,261
+"243",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",450,187
+"244",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",450,5483
+"245",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",450,159
+"246",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",450,223
+"247",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",525,3
+"248",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",562.5,2
+"249",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",562.5,2
+"250",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",565,1
+"251",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",585,1
+"252",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",600,2
+"253",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",600,3
+"254",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",600,2
+"255",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",600,144
+"256",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",600,14
+"257",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",600,10
+"258",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",650,2
+"259",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",675,84
+"260",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",675,1
+"261",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",675,5
+"262",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",675,3
+"263",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",675,62
+"264",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",675,16
+"265",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",710,1
+"266",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",750,40
+"267",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",750,5
+"268",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",870,1
+"269",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",900,20
+"270",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",900,10
+"271",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",900,1
+"272",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",900,1331
+"273",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",900,53
+"274",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",900,81
+"275",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",1050,2
+"276",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1050,2
+"277",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",1125,2
+"278",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1125,2
+"279",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1200,3
+"280",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1350,71
+"281",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",1350,1
+"282",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",1350,5
+"283",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",1800,2
+"284",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",1800,2
+"285",45892527,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",1800,1
+"286",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",2250,1
+"287",45892520,1250,8576,20.25,8576,"1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",NA,2
+"288",45892521,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel",NA,4
+"289",45892522,2500,8576,25,8576,"2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",NA,1
+"290",45892523,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel",NA,2
+"291",45892524,2500,8576,40.5,8576,"2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",NA,5
+"292",45892525,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel",NA,30
+"293",45892526,5000,8576,50,8576,"5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",NA,1

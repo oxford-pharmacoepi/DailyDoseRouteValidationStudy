@@ -1,0 +1,903 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",702595,1000,8587,10,9551,"1000 ML dextrose monohydrate 50 MG/ML / potassium chloride 0.01 MEQ/ML Injection",1,1
+"2",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",1,541
+"3",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",1,52
+"4",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",1,2962
+"5",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",1,111
+"6",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1,6722
+"7",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1,29
+"8",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",1,48
+"9",1593073,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",1,1
+"10",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",1,101
+"11",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",1,37
+"12",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",1,1133
+"13",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",1,1947
+"14",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",1,582
+"15",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",1,86
+"16",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",1,119
+"17",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",1,105
+"18",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",1,31
+"19",19076329,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML Injection",1,2
+"20",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",1,1043
+"21",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1,640
+"22",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1,20
+"23",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1,123
+"24",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",1,2000
+"25",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1,236
+"26",19124986,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 2.25 MG/ML Injection",1,17
+"27",904858,10,8587,50,9551,"10 ML sodium lactate 5 MEQ/ML Injection",2,2
+"28",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",2,121
+"29",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",2,12
+"30",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",2,875
+"31",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",2,42
+"32",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2,1575
+"33",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2,8
+"34",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",2,8
+"35",1593202,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 3 MG/ML Injection",2,1
+"36",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",2,45
+"37",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",2,39
+"38",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",2,165
+"39",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",2,124
+"40",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",2,187
+"41",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",2,49
+"42",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",2,71
+"43",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",2,12
+"44",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",2,7
+"45",19076329,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML Injection",2,1
+"46",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",2,469
+"47",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2,139
+"48",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2,7
+"49",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2,33
+"50",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",2,427
+"51",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2,62
+"52",19124986,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 2.25 MG/ML Injection",2,7
+"53",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",3,40
+"54",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",3,3
+"55",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",3,234
+"56",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",3,3
+"57",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3,390
+"58",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3,4
+"59",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",3,1
+"60",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",3,10
+"61",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",3,5
+"62",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",3,103
+"63",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",3,37
+"64",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",3,51
+"65",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",3,46
+"66",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",3,20
+"67",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",3,3
+"68",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",3,1
+"69",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",3,235
+"70",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3,40
+"71",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3,3
+"72",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3,12
+"73",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",3,96
+"74",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3,14
+"75",19124986,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 2.25 MG/ML Injection",3,1
+"76",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",4,19
+"77",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",4,86
+"78",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",4,4
+"79",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4,142
+"80",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4,3
+"81",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",4,1
+"82",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",4,8
+"83",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",4,4
+"84",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",4,144
+"85",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",4,23
+"86",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",4,17
+"87",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",4,25
+"88",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",4,14
+"89",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",4,9
+"90",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",4,3
+"91",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",4,211
+"92",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4,27
+"93",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4,1
+"94",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4,5
+"95",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",4,21
+"96",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4,7
+"97",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",5,11
+"98",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",5,1
+"99",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",5,45
+"100",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5,89
+"101",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5,16
+"102",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",5,1
+"103",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",5,1
+"104",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",5,2061
+"105",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",5,4470
+"106",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",5,3854
+"107",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",5,40
+"108",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",5,662
+"109",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",5,9
+"110",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",5,46
+"111",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",5,1
+"112",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",5,8177
+"113",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5,13
+"114",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5,2
+"115",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5,4
+"116",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",5,15
+"117",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5,121
+"118",904858,10,8587,50,9551,"10 ML sodium lactate 5 MEQ/ML Injection",6,2
+"119",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",6,8
+"120",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",6,37
+"121",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",6,2
+"122",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6,58
+"123",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",6,1
+"124",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",6,54
+"125",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",6,5
+"126",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",6,7
+"127",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",6,14
+"128",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",6,1
+"129",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",6,2
+"130",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",6,2
+"131",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",6,62
+"132",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6,11
+"133",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",6,13
+"134",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6,3
+"135",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",7,3
+"136",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",7,22
+"137",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",7,1
+"138",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",7,51
+"139",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",7,9
+"140",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",7,20
+"141",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",7,1
+"142",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",7,4
+"143",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",7,7
+"144",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",7,1
+"145",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",7,2
+"146",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",7,26
+"147",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",7,17
+"148",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",7,2
+"149",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",7,13
+"150",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",7,2
+"151",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",8,10
+"152",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",8,2
+"153",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",8,18
+"154",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",8,30
+"155",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",8,216
+"156",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",8,27
+"157",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",8,3
+"158",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",8,6
+"159",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",8,1
+"160",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",8,2
+"161",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",8,29
+"162",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",8,16
+"163",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",8,4
+"164",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",8,8
+"165",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",9,8
+"166",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",9,17
+"167",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",9,25
+"168",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",9,1
+"169",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",9,1
+"170",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",9,2
+"171",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",9,3
+"172",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",9,6
+"173",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",9,1
+"174",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",9,2
+"175",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",9,10
+"176",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",9,12
+"177",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",9,1
+"178",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",9,4
+"179",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",9,1
+"180",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",10,17
+"181",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",10,7995
+"182",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",10,12
+"183",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",10,4594
+"184",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",10,5
+"185",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",10,21
+"186",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",10,1209
+"187",1718695,15,8587,30,9551,"15 ML potassium chloride 2 MEQ/ML Injection",10,1
+"188",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",10,11187
+"189",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",10,3478
+"190",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",10,7761
+"191",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",10,339
+"192",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",10,15
+"193",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",10,426
+"194",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",10,28
+"195",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",10,4319
+"196",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",10,1316
+"197",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",10,1273
+"198",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",10,25
+"199",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",11,4
+"200",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",11,14
+"201",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",11,5
+"202",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",11,11
+"203",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",11,6
+"204",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",11,21
+"205",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",11,4
+"206",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",11,3
+"207",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",11,1
+"208",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",11,12
+"209",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",11,7
+"210",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",11,1
+"211",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",11,2
+"212",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",11,1
+"213",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",12,2
+"214",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",12,7
+"215",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",12,1
+"216",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",12,13
+"217",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",12,1
+"218",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",12,1
+"219",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",12,5
+"220",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",12,3
+"221",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",12,1
+"222",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",12,8
+"223",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",12,3
+"224",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",12,4
+"225",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",13,3
+"226",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",13,3
+"227",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",13,6
+"228",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",13,4
+"229",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",13,7
+"230",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",13,10
+"231",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",13,1
+"232",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",13,1
+"233",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",13,5
+"234",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",13,1
+"235",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",13,2
+"236",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",13,1
+"237",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",14,3
+"238",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",14,5
+"239",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",14,10
+"240",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",14,1
+"241",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",14,7
+"242",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",14,1
+"243",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",14,2
+"244",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",14,8
+"245",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",14,2
+"246",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",14,2
+"247",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",14,1
+"248",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",15,7
+"249",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",15,10
+"250",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",15,4
+"251",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",15,2
+"252",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",15,1
+"253",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",15,60
+"254",1718695,15,8587,30,9551,"15 ML potassium chloride 2 MEQ/ML Injection",15,33
+"255",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",15,212
+"256",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",15,467
+"257",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",15,6
+"258",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",15,105
+"259",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",15,8
+"260",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",15,3
+"261",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",15,1507
+"262",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",15,3
+"263",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",15,56
+"264",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",15,1
+"265",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",15,11
+"266",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",16,1
+"267",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",16,6
+"268",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",16,5
+"269",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",16,1
+"270",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",16,2
+"271",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",16,3
+"272",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",16,3
+"273",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",16,1
+"274",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",17,1
+"275",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",17,2
+"276",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",17,4
+"277",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",17,1
+"278",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",17,2
+"279",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",17,6
+"280",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",17,2
+"281",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",17,1
+"282",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",18,3
+"283",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",18,3
+"284",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",18,6
+"285",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",18,6
+"286",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",18,2
+"287",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",18,1
+"288",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",18,4
+"289",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",18,3
+"290",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",18,1
+"291",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",19,2
+"292",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",19,3
+"293",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",19,2
+"294",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",19,1
+"295",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",19,1
+"296",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",19,1
+"297",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",19,3
+"298",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",19,1
+"299",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",20,1011
+"300",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",20,41
+"301",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",20,1701
+"302",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",20,11
+"303",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",20,1063
+"304",1593071,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 2.25 MG/ML Injection",20,4
+"305",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",20,252
+"306",1718695,15,8587,30,9551,"15 ML potassium chloride 2 MEQ/ML Injection",20,1
+"307",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",20,1863
+"308",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",20,4802
+"309",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",20,3034
+"310",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",20,196
+"311",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",20,610
+"312",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",20,205
+"313",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",20,13
+"314",19076329,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML Injection",20,1
+"315",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",20,1812
+"316",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",20,315
+"317",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",20,111
+"318",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",20,294
+"319",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",20,2
+"320",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",21,1
+"321",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",21,5
+"322",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",21,2
+"323",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",21,2
+"324",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",21,2
+"325",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",21,3
+"326",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",21,3
+"327",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",21,3
+"328",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",21,2
+"329",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",22,1
+"330",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",22,2
+"331",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",22,2
+"332",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",22,1
+"333",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",22,1
+"334",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",22,2
+"335",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",22,1
+"336",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",23,2
+"337",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",23,3
+"338",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",23,2
+"339",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",23,25
+"340",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",23,2
+"341",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",23,2
+"342",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",23,1
+"343",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",24,2
+"344",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",24,3
+"345",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",24,1
+"346",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",24,1
+"347",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",24,1
+"348",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",24,2
+"349",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",24,5
+"350",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",25,6
+"351",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",25,2
+"352",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",25,1
+"353",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",25,4
+"354",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",25,2
+"355",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",25,46
+"356",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",25,12
+"357",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",25,2
+"358",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",25,20
+"359",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",25,300
+"360",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",25,1
+"361",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",25,1
+"362",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",26,1
+"363",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",26,1
+"364",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",26,1
+"365",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",26,1
+"366",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",26,2
+"367",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",26,1
+"368",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",27,2
+"369",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",27,1
+"370",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",27,1
+"371",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",27,1
+"372",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",27,3
+"373",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",28,4
+"374",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",28,1
+"375",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",28,2
+"376",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",28,3
+"377",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",28,2
+"378",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",28,1
+"379",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",29,2
+"380",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",29,1
+"381",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",29,3
+"382",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",30,6
+"383",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",30,300
+"384",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",30,1
+"385",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",30,210
+"386",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",30,13
+"387",1718695,15,8587,30,9551,"15 ML potassium chloride 2 MEQ/ML Injection",30,4
+"388",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",30,135
+"389",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",30,134
+"390",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",30,669
+"391",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",30,16
+"392",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",30,4
+"393",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",30,70
+"394",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",30,1
+"395",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",30,415
+"396",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",30,73
+"397",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",30,17
+"398",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",30,54
+"399",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",31,3
+"400",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",31,2
+"401",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",31,2
+"402",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",31,2
+"403",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",31,1
+"404",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",31,1
+"405",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",32,1
+"406",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",32,3
+"407",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",32,1
+"408",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",32,1
+"409",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",32,3
+"410",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",32,2
+"411",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",32,1
+"412",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",33,3
+"413",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",33,2
+"414",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",33,1
+"415",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",33,1
+"416",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",33,1
+"417",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",34,1
+"418",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",34,1
+"419",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",34,2
+"420",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",34,1
+"421",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",34,1
+"422",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",35,1
+"423",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",35,2
+"424",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",35,3
+"425",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",35,3
+"426",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",35,5
+"427",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",35,1
+"428",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",35,96
+"429",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",35,1
+"430",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",36,1
+"431",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",36,1
+"432",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",36,1
+"433",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",36,1
+"434",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",37,2
+"435",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",37,2
+"436",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",37,1
+"437",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",37,1
+"438",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",37,1
+"439",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",38,1
+"440",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",38,1
+"441",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",38,3
+"442",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",39,2
+"443",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",39,2
+"444",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",39,2
+"445",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",40,184
+"446",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",40,15
+"447",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",40,82
+"448",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",40,8
+"449",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",40,46
+"450",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",40,3
+"451",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",40,59
+"452",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",40,394
+"453",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",40,263
+"454",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",40,13
+"455",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",40,52
+"456",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",40,45
+"457",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",40,104
+"458",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",40,19
+"459",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",40,28
+"460",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",40,9
+"461",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",40,1
+"462",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",41,1
+"463",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",41,1
+"464",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",41,2
+"465",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",41,1
+"466",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",42,1
+"467",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",42,1
+"468",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",42,1
+"469",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",43,3
+"470",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",43,1
+"471",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",44,1
+"472",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",44,1
+"473",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",44,1
+"474",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",45,4
+"475",1718695,15,8587,30,9551,"15 ML potassium chloride 2 MEQ/ML Injection",45,1
+"476",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",45,6
+"477",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",45,34
+"478",19123352,1000,8587,30,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection",45,2
+"479",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",46,1
+"480",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",46,1
+"481",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",46,1
+"482",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",47,1
+"483",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",47,1
+"484",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",48,1
+"485",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",48,2
+"486",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",49,1
+"487",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",50,1
+"488",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",50,34
+"489",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",50,15
+"490",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",50,1
+"491",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",50,16
+"492",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",50,11
+"493",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",50,52
+"494",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",50,4
+"495",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",50,18
+"496",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",50,32
+"497",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",50,5
+"498",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",50,4
+"499",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",51,1
+"500",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",51,1
+"501",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",51,1
+"502",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",51,1
+"503",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",51,1
+"504",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",51,1
+"505",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",52,2
+"506",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",52,1
+"507",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",53,1
+"508",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",53,1
+"509",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",53,1
+"510",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",53,1
+"511",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",54,2
+"512",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",54,1
+"513",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",55,2
+"514",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",55,2
+"515",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",55,1
+"516",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",55,16
+"517",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",56,2
+"518",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",56,1
+"519",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",56,1
+"520",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",57,2
+"521",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",57,1
+"522",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",58,1
+"523",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",58,1
+"524",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",59,1
+"525",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",60,44
+"526",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",60,10
+"527",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",60,6
+"528",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",60,12
+"529",1718695,15,8587,30,9551,"15 ML potassium chloride 2 MEQ/ML Injection",60,1
+"530",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",60,9
+"531",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",60,53
+"532",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",60,32
+"533",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",60,1
+"534",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",60,2
+"535",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",60,15
+"536",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",60,20
+"537",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",60,2
+"538",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",60,4
+"539",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",60,3
+"540",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",61,1
+"541",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",62,1
+"542",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",63,1
+"543",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",63,2
+"544",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",64,1
+"545",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",64,1
+"546",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",65,1
+"547",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",65,11
+"548",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",66,1
+"549",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",66,1
+"550",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",67,1
+"551",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",69,1
+"552",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",70,6
+"553",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",70,16
+"554",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",70,2
+"555",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",70,1
+"556",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",70,14
+"557",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",70,1
+"558",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",70,4
+"559",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",70,7
+"560",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",70,2
+"561",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",70,4
+"562",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",71,1
+"563",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",71,1
+"564",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",72,1
+"565",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",72,1
+"566",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",73,1
+"567",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",75,10
+"568",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",75,1
+"569",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",75,4
+"570",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",77,1
+"571",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",78,1
+"572",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",80,5
+"573",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",80,10
+"574",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",80,3
+"575",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",80,2
+"576",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",80,2
+"577",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",80,27
+"578",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",80,7
+"579",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",80,1
+"580",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",80,2
+"581",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",80,6
+"582",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",80,13
+"583",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",80,1
+"584",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",81,1
+"585",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",82,1
+"586",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",83,1
+"587",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",84,1
+"588",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",84,1
+"589",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",85,1
+"590",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",85,1
+"591",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",85,4
+"592",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",86,2
+"593",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",87,1
+"594",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",88,1
+"595",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",89,1
+"596",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",89,1
+"597",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",90,8
+"598",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",90,3
+"599",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",90,5
+"600",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",90,2
+"601",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",90,2
+"602",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",90,3
+"603",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",90,2
+"604",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",92,1
+"605",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",93,1
+"606",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",93,1
+"607",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",98,1
+"608",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",100,4
+"609",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",100,5
+"610",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",100,6
+"611",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",100,13
+"612",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",100,13
+"613",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",100,1
+"614",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",100,5
+"615",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",100,3
+"616",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",100,1
+"617",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",100,1
+"618",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",103,1
+"619",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",104,1
+"620",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",104,1
+"621",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",105,1
+"622",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",105,1
+"623",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",106,1
+"624",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",109,1
+"625",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",110,3
+"626",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",110,7
+"627",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",110,4
+"628",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",110,2
+"629",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",112,1
+"630",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",115,1
+"631",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",118,1
+"632",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",120,2
+"633",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",120,6
+"634",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",120,3
+"635",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",120,1
+"636",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",120,4
+"637",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",120,2
+"638",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",120,1
+"639",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",120,6
+"640",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",120,3
+"641",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",120,1
+"642",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",121,1
+"643",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",122,1
+"644",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",125,1
+"645",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",129,1
+"646",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",130,3
+"647",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",130,4
+"648",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",130,1
+"649",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",130,3
+"650",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",130,1
+"651",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",132,1
+"652",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",132,1
+"653",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",132,1
+"654",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",134,1
+"655",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",135,1
+"656",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",140,1
+"657",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",140,17
+"658",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",140,1
+"659",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",140,47
+"660",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",140,6
+"661",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",140,1
+"662",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",143,1
+"663",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",144,1
+"664",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",144,1
+"665",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",146,1
+"666",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",147,1
+"667",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",148,1
+"668",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",148,1
+"669",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",149,1
+"670",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",150,1
+"671",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",150,1
+"672",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",150,4
+"673",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",150,3
+"674",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",150,1
+"675",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",150,1
+"676",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",151,1
+"677",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",151,1
+"678",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",152,1
+"679",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",155,1
+"680",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",155,2
+"681",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",160,1
+"682",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",160,1
+"683",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",160,1
+"684",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",160,3
+"685",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",160,3
+"686",1718737,50,8587,10,9551,"50 ML potassium chloride 0.2 MEQ/ML Injection",160,1
+"687",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",160,2
+"688",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",163,1
+"689",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",164,1
+"690",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",169,1
+"691",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",170,1
+"692",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",170,1
+"693",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",170,1
+"694",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",170,2
+"695",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",174,1
+"696",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",175,1
+"697",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",177,1
+"698",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",177,1
+"699",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",177,1
+"700",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",178,1
+"701",968274,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",180,1
+"702",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",180,1
+"703",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",180,3
+"704",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",184,1
+"705",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",187,1
+"706",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",189,1
+"707",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",190,1
+"708",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",190,1
+"709",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",190,1
+"710",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",190,1
+"711",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",190,1
+"712",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",192,1
+"713",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",193,1
+"714",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",195,1
+"715",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",199,1
+"716",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",199,1
+"717",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",200,1
+"718",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",200,9
+"719",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",200,1
+"720",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",200,6
+"721",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",200,4
+"722",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",200,1
+"723",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",200,2
+"724",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",201,1
+"725",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",205,1
+"726",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",210,1
+"727",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",210,2
+"728",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",212,1
+"729",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",213,1
+"730",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",214,1
+"731",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",220,1
+"732",1718693,5,8587,10,9551,"5 ML potassium chloride 2 MEQ/ML Injection",225,1
+"733",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",229,2
+"734",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",230,1
+"735",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",230,1
+"736",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",237,1
+"737",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",240,2
+"738",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",240,1
+"739",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",240,1
+"740",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",244,1
+"741",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",244,1
+"742",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",249,1
+"743",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",250,1
+"744",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",250,1
+"745",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",250,1
+"746",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",251,1
+"747",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",260,1
+"748",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",266,1
+"749",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",266,1
+"750",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",269,1
+"751",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",275,1
+"752",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",275,2
+"753",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",280,1
+"754",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",280,1
+"755",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",282,1
+"756",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",285,1
+"757",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",287,1
+"758",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",293,1
+"759",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",296,1
+"760",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",300,1
+"761",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",300,4
+"762",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",300,1
+"763",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",315,1
+"764",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",337,1
+"765",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",345,1
+"766",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",349,1
+"767",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",354,1
+"768",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",360,1
+"769",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",368,1
+"770",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",377,1
+"771",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",390,1
+"772",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",396,1
+"773",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",400,2
+"774",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",400,5
+"775",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",400,1
+"776",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",433,1
+"777",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",449,1
+"778",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",459,1
+"779",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",463,1
+"780",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",477,1
+"781",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",497,1
+"782",1593065,500,8587,10,9551,"500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",500,1
+"783",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",500,1
+"784",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",503,1
+"785",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",553,1
+"786",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",559,1
+"787",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",566,1
+"788",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",594,1
+"789",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",648,1
+"790",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",685,1
+"791",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",685,1
+"792",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",706,1
+"793",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",710,1
+"794",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",715,1
+"795",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",732,1
+"796",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",741,1
+"797",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",750,1
+"798",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",816,1
+"799",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",817,1
+"800",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",930,1
+"801",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",930,3
+"802",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",944,1
+"803",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",946,1
+"804",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",960,2
+"805",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",961,1
+"806",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",970,1
+"807",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",972,1
+"808",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",975,1
+"809",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",980,1
+"810",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",980,1
+"811",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",980,1
+"812",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",988,1
+"813",1592267,20,8587,40,9551,"20 ML potassium acetate 2 MEQ/ML Injection",989,1
+"814",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",991,1
+"815",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",991,1
+"816",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",992,1
+"817",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",997,1
+"818",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",999,1
+"819",1718750,100,8587,40,9551,"100 ML potassium chloride 0.4 MEQ/ML Injection",999,1
+"820",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",999,4
+"821",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",999,3
+"822",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",1000,8
+"823",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",1000,31
+"824",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1000,83
+"825",1718696,10,8587,20,9551,"10 ML potassium chloride 2 MEQ/ML Injection",1000,1
+"826",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",1000,5
+"827",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1000,1
+"828",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",1000,1
+"829",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1000,4
+"830",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",1017,1
+"831",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",1018,1
+"832",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1106,1
+"833",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",1122,1
+"834",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1200,1
+"835",19079322,100,8587,10,9551,"100 ML potassium chloride 0.1 MEQ/ML Injection",1549,1
+"836",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",1615,1
+"837",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",1708,1
+"838",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",2000,1
+"839",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",2000,67
+"840",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2000,52
+"841",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",2000,3
+"842",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2000,3
+"843",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",2000,3
+"844",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",2154.38,1
+"845",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",2185,1
+"846",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",2250,1
+"847",1718735,100,8587,20,9551,"100 ML potassium chloride 0.2 MEQ/ML Injection",2747,1
+"848",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",3000,3
+"849",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3000,142
+"850",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",3000,1
+"851",19076326,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML Injection",3000,3
+"852",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3000,1
+"853",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",3000,3
+"854",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",3000,3
+"855",1718752,50,8587,20,9551,"50 ML potassium chloride 0.4 MEQ/ML Injection",3048,1
+"856",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",3231.57,4
+"857",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",4000,2
+"858",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",4000,4
+"859",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4000,14
+"860",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",4000,1
+"861",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4000,1
+"862",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",4000,1
+"863",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",4000,5
+"864",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",4306.78,1
+"865",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",4308.76,4
+"866",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",5000,12
+"867",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5000,32
+"868",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",5000,1
+"869",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5000,1
+"870",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",5000,1
+"871",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",5000,1
+"872",1718646,20,8587,40,9551,"20 ML sodium acetate 2 MEQ/ML Injection",5266,1
+"873",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",6000,2
+"874",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6000,9
+"875",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6000,2
+"876",19123353,1000,8587,40,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6000,1
+"877",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",6000,1
+"878",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",6000,1
+"879",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",6300,1
+"880",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",7000,1
+"881",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",7000,62
+"882",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",7000,1
+"883",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",7000,1
+"884",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",8000,2
+"885",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",8000,6
+"886",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",8000,1
+"887",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",9000,1
+"888",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",9000,2
+"889",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",10000,3
+"890",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",10000,1
+"891",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",10100,1
+"892",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",12000,2
+"893",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",12000,2
+"894",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",14000,3
+"895",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",14000,142
+"896",19102509,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",14000,1
+"897",19123359,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",14000,1
+"898",1718698,20,8587,40,9551,"20 ML potassium chloride 2 MEQ/ML Injection",14140,15
+"899",968304,1000,8587,20,9551,"1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection",16000,1
+"900",1593063,1000,8587,20,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection",16000,1
+"901",19124109,1000,8587,10,9551,"1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection",28000,3
+"902",967904,1000,8587,40,9551,"1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection",30000,1

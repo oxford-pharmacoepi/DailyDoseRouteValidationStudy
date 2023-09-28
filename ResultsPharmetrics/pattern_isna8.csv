@@ -1,0 +1,48 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",1,58437
+"2",19131647,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System",1,23
+"3",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",1,261869
+"4",42799761,NA,8505,0.00271,8576,"histrelin acetate 0.00271 MG/HR Drug Implant [Supprelin]",1,364
+"5",42799762,NA,8505,0.00208,8576,"histrelin acetate 0.00208 MG/HR Drug Implant [Vantas]",1,122
+"6",43012751,NA,8505,0.00058,8576,"levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",1,23737
+"7",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",1,36312
+"8",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",2,16
+"9",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",2,98
+"10",42799761,NA,8505,0.00271,8576,"histrelin acetate 0.00271 MG/HR Drug Implant [Supprelin]",2,1
+"11",43012751,NA,8505,0.00058,8576,"levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",2,10
+"12",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",2,8
+"13",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",3,2
+"14",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",3,1
+"15",42903226,NA,8505,0.4,8576,"nitroglycerin 0.4 MG/HR Transdermal System [Deponit]",3,1
+"16",43012751,NA,8505,0.00058,8576,"levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",3,2
+"17",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",4,1
+"18",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",4,6
+"19",43012751,NA,8505,0.00058,8576,"levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",4,4
+"20",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",5,2
+"21",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",8,1
+"22",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",9,1
+"23",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",13,1
+"24",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",20,2
+"25",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",20,5
+"26",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",24,1
+"27",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",25,1
+"28",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",28,2
+"29",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",32,1
+"30",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",40,7
+"31",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",40,1
+"32",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",48,1
+"33",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",50,2
+"34",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",52,4
+"35",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",91,1
+"36",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",100,1
+"37",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",125,3
+"38",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",150,1
+"39",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",150,2
+"40",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",150,1
+"41",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",174,1
+"42",43012751,NA,8505,0.00058,8576,"levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",999,1
+"43",1718412,NA,8505,0.00073,8576,"levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",NA,66
+"44",19131647,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System",NA,4
+"45",19132304,NA,8505,0.00083,8576,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",NA,6924
+"46",43012751,NA,8505,0.00058,8576,"levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",NA,827
+"47",46221626,NA,8505,0.00081,8576,"levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",NA,1002

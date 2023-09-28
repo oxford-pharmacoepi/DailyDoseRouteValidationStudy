@@ -1,0 +1,1501 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",0.01,1
+"2",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",0.06,1
+"3",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",0.09,1
+"4",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",0.3,1
+"5",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",0.6,1
+"6",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",0.94,3
+"7",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",0.98,1
+"8",789793,NA,45744809,0.09,8576,"Sensor 200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir]",1,233
+"9",792593,NA,45744809,0.093,8576,"fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",1,22
+"10",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",1,287
+"11",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",1,104
+"12",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",1,76
+"13",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",1,178
+"14",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",1,8
+"15",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",1,2669
+"16",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",1,1595
+"17",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",1,1434
+"18",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",1,1604
+"19",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",1,1038
+"20",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",1,2
+"21",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",1,9
+"22",19121806,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray [Imitrex]",1,2
+"23",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",1,675
+"24",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",1,39
+"25",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",1,8827
+"26",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",1,31
+"27",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",1,3
+"28",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",1,1
+"29",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",1,285
+"30",36250068,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",1,24
+"31",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",1,3
+"32",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",1,228
+"33",36250077,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",1,2
+"34",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",1,31
+"35",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",1,31
+"36",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",1,99
+"37",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",1,99
+"38",36250083,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray",1,1
+"39",36250085,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray [Nasalcrom]",1,1
+"40",36250089,NA,45744809,15.8,8576,"ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray [Sprix]",1,4
+"41",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",1,8
+"42",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",1,8
+"43",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",1,1179
+"44",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",1,729
+"45",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",1,13
+"46",36250106,NA,45744809,0.029,8576,"flunisolide 0.029 MG/ACTUAT Metered Dose Nasal Spray [Nasalide]",1,20
+"47",36250108,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray [Astelin]",1,22
+"48",36250114,NA,45744809,0.029,8576,"flunisolide 0.029 MG/ACTUAT Metered Dose Nasal Spray [Nasarel]",1,9
+"49",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",1,82
+"50",36250116,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray [Astepro]",1,3
+"51",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",1,5
+"52",36250124,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",1,5
+"53",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",1,35
+"54",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",1,1
+"55",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",1,6261
+"56",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",1,3
+"57",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",1,4
+"58",36250151,NA,45744809,0.042,8576,"beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",1,2
+"59",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",1,37
+"60",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",1,2
+"61",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",1,81
+"62",37002844,NA,45744809,0.014,8576,"Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",1,180
+"63",37002844,NA,45744809,0.113,8576,"Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",1,180
+"64",37002847,NA,45744809,0.014,8576,"Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",1,16
+"65",37002847,NA,45744809,0.055,8576,"Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",1,16
+"66",37002850,NA,45744809,0.014,8576,"Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",1,63
+"67",37002850,NA,45744809,0.232,8576,"Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",1,63
+"68",37002852,NA,45744809,0.113,8576,"Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler [Armonair]",1,48
+"69",37002854,NA,45744809,0.232,8576,"Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler [Armonair]",1,16
+"70",37002856,NA,45744809,0.055,8576,"Sensor 60 ACTUAT fluticasone propionate 0.055 MG/ACTUAT Dry Powder Inhaler [Armonair]",1,5
+"71",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",1,94
+"72",40163846,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray [Migranal]",1,4
+"73",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",1,4430
+"74",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",1,25
+"75",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",1,4
+"76",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",1,70
+"77",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",1,3
+"78",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",1,3
+"79",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",1,17
+"80",42903088,NA,45744809,0.09,8576,"albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",1,74
+"81",43011834,NA,45744809,250,8576,"propylhexedrine 250 MG/ACTUAT Nasal Inhalant [Benzedrex]",1,1
+"82",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",1,1
+"83",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",1.3,5
+"84",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",1.5,1
+"85",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",1.7,1
+"86",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",1.8,8
+"87",789793,NA,45744809,0.09,8576,"Sensor 200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir]",2,8
+"88",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",2,3
+"89",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",2,2
+"90",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",2,10
+"91",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",2,27
+"92",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",2,211
+"93",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",2,173
+"94",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2,183
+"95",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2,273
+"96",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2,121
+"97",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",2,6
+"98",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",2,123
+"99",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",2,7
+"100",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",2,862
+"101",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",2,1
+"102",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",2,4
+"103",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",2,4
+"104",36250077,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",2,1
+"105",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",2,61
+"106",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",2,17
+"107",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",2,3
+"108",36250108,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray [Astelin]",2,1
+"109",36250114,NA,45744809,0.029,8576,"flunisolide 0.029 MG/ACTUAT Metered Dose Nasal Spray [Nasarel]",2,1
+"110",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",2,2
+"111",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",2,146
+"112",36250151,NA,45744809,0.042,8576,"beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",2,1
+"113",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",2,11
+"114",37002852,NA,45744809,0.113,8576,"Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT Dry Powder Inhaler [Armonair]",2,2
+"115",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",2,9
+"116",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",2,644
+"117",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",2,105
+"118",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",2,10
+"119",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",2,1
+"120",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",2,4
+"121",42903088,NA,45744809,0.09,8576,"albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2,3
+"122",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2.1,6
+"123",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2.1,3
+"124",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",2.1,1
+"125",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",2.5,774
+"126",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",2.5,10955
+"127",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",2.9,2
+"128",789793,NA,45744809,0.09,8576,"Sensor 200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir]",3,9
+"129",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",3,1
+"130",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",3,9
+"131",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",3,43
+"132",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",3,66
+"133",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",3,46
+"134",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",3,13
+"135",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",3,56
+"136",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",3,22
+"137",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",3,1
+"138",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",3,7
+"139",19121806,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray [Imitrex]",3,1
+"140",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",3,2
+"141",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",3,6
+"142",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",3,247
+"143",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",3,1
+"144",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",3,5
+"145",36250068,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",3,1
+"146",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",3,2
+"147",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",3,14
+"148",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",3,1
+"149",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",3,7
+"150",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",3,48
+"151",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",3,2
+"152",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",3,1
+"153",37002844,NA,45744809,0.014,8576,"Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",3,6
+"154",37002844,NA,45744809,0.113,8576,"Sensor 60 ACTUAT fluticasone propionate 0.113 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",3,6
+"155",37002850,NA,45744809,0.014,8576,"Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",3,25
+"156",37002850,NA,45744809,0.232,8576,"Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler [AirDuo]",3,25
+"157",37002854,NA,45744809,0.232,8576,"Sensor 60 ACTUAT fluticasone propionate 0.232 MG/ACTUAT Dry Powder Inhaler [Armonair]",3,1
+"158",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",3,4
+"159",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",3,111
+"160",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",3,2
+"161",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",3,143
+"162",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",3,3
+"163",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",3,1
+"164",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",3.43,1
+"165",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",3.5,3
+"166",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",3.6,1
+"167",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",3.7,1
+"168",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",3.7,1
+"169",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",3.73,1
+"170",793166,NA,45744809,0.00166,8576,"desmopressin acetate 0.00166 MG/ACTUAT Metered Dose Nasal Spray [Noctiva]",3.8,102
+"171",1593084,NA,45744809,0.00083,8576,"desmopressin acetate 0.00083 MG/ACTUAT Metered Dose Nasal Spray [Noctiva]",3.8,89
+"172",701856,NA,45744809,0.725,8576,"dihydroergotamine mesylate 0.725 MG/ACTUAT Metered Dose Nasal Spray [Trudhesa]",4,82
+"173",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",4,1
+"174",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",4,4
+"175",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",4,30
+"176",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",4,48
+"177",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",4,90
+"178",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4,73
+"179",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4,81
+"180",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4,32
+"181",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",4,2
+"182",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",4,16
+"183",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",4,301
+"184",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",4,2
+"185",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",4,1
+"186",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",4,1
+"187",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",4,1
+"188",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",4,1
+"189",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",4,3
+"190",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",4,23
+"191",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",4,65
+"192",40163846,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray [Migranal]",4,2
+"193",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",4,163
+"194",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",4,11729
+"195",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",4,1
+"196",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",4,3
+"197",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",4,14
+"198",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",4.1,259
+"199",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",4.1,33
+"200",702092,NA,45744809,0.03,8576,"varenicline 0.03 MG/ACTUAT Nasal Spray [Tyrvaya]",4.2,37
+"201",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4.2,1
+"202",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4.5,1
+"203",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4.5,2
+"204",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",4.5,81
+"205",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4.6,1
+"206",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4.8,1
+"207",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",4.9,1
+"208",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",4.9,1
+"209",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",4.9,2741
+"210",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",4.9,1348
+"211",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",4.9,38
+"212",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",5,3
+"213",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",5,5
+"214",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",5,6
+"215",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",5,2
+"216",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",5,9
+"217",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",5,3
+"218",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",5,2
+"219",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",5,69
+"220",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",5,31
+"221",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",5,4
+"222",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",5,7921
+"223",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",5,76
+"224",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",5,14
+"225",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",5,1
+"226",36250085,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray [Nasalcrom]",5,1
+"227",36250087,NA,45744809,15.8,8576,"ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray",5,58
+"228",36250089,NA,45744809,15.8,8576,"ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray [Sprix]",5,2355
+"229",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",5,25
+"230",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",5,1
+"231",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",5,1
+"232",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",5,1
+"233",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",5,81
+"234",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",5,17
+"235",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",5,69
+"236",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",5,2
+"237",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",5,34
+"238",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",5,3667
+"239",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",5,2
+"240",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",5,5
+"241",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",5,12
+"242",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",5,1
+"243",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",5.9,936
+"244",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",5.9,1
+"245",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",6,7120
+"246",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",6,28656
+"247",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",6,432
+"248",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",6,11
+"249",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",6,104
+"250",1361138,NA,45744809,10,8576,"sumatriptan 10 MG/ACTUAT Nasal Spray [Tosymra]",6,638
+"251",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6,15
+"252",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6,20
+"253",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6,20
+"254",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",6,1102
+"255",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",6,11555
+"256",19121806,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray [Imitrex]",6,105
+"257",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",6,2
+"258",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",6,72
+"259",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",6,9
+"260",36250072,NA,45744809,0.037,8576,"ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",6,48
+"261",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",6,4
+"262",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",6,18
+"263",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",6,6
+"264",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",6,56
+"265",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",6,5
+"266",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",6,2
+"267",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",6,5
+"268",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",6,8
+"269",44785081,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray",6,118
+"270",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",6,1040
+"271",36250072,NA,45744809,0.037,8576,"ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",6.1,1547
+"272",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6.3,1
+"273",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",6.4,1
+"274",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",6.47,1
+"275",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6.5,6
+"276",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",6.5,1
+"277",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",6.6,4
+"278",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",6.7,38
+"279",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",6.7,82557
+"280",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6.7,1
+"281",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6.7,104
+"282",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",6.7,387886
+"283",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",6.7,1
+"284",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",6.7,26
+"285",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",6.8,555
+"286",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",6.8,1
+"287",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",7,1
+"288",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",7,2
+"289",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",7,6
+"290",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",7,11698
+"291",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",7,2
+"292",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",7,256
+"293",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",7,2
+"294",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",7,2
+"295",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",7,14
+"296",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",7,8
+"297",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",7,2
+"298",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",7,2
+"299",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",7,1
+"300",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",7,9
+"301",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",7,24
+"302",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",7,21
+"303",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",7.3,1
+"304",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",7.5,4
+"305",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",7.5,3
+"306",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",7.5,2
+"307",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",7.5,557
+"308",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",7.56,3
+"309",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",7.7,228
+"310",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",7.8,3
+"311",701856,NA,45744809,0.725,8576,"dihydroergotamine mesylate 0.725 MG/ACTUAT Metered Dose Nasal Spray [Trudhesa]",8,38
+"312",702092,NA,45744809,0.03,8576,"varenicline 0.03 MG/ACTUAT Nasal Spray [Tyrvaya]",8,1
+"313",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",8,68
+"314",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8,109429
+"315",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",8,64
+"316",1361138,NA,45744809,10,8576,"sumatriptan 10 MG/ACTUAT Nasal Spray [Tosymra]",8,3
+"317",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8,128
+"318",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8,19
+"319",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8,5
+"320",1548968,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray",8,4
+"321",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",8,177
+"322",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",8,5
+"323",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",8,3
+"324",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",8,5
+"325",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8,4165
+"326",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",8,1
+"327",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",8,2
+"328",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",8,1
+"329",36250112,NA,45744809,0.2,8576,"nafarelin 0.2 MG/ACTUAT Metered Dose Nasal Spray [Synarel]",8,42
+"330",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",8,20
+"331",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",8,32
+"332",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",8,123
+"333",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",8,32
+"334",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",8,7937
+"335",40163846,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray [Migranal]",8,469
+"336",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8,281
+"337",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",8,104
+"338",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",8,20
+"339",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",8,1
+"340",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",8,6
+"341",1548968,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray",8.1,22
+"342",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",8.1,7949
+"343",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",8.2,6
+"344",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.25,1
+"345",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.35,3
+"346",702092,NA,45744809,0.03,8576,"varenicline 0.03 MG/ACTUAT Nasal Spray [Tyrvaya]",8.4,334
+"347",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",8.4,1
+"348",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",8.43,4860
+"349",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",8.43,164
+"350",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.5,1751418
+"351",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",8.5,3
+"352",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8.5,1112752
+"353",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8.5,455
+"354",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8.5,21
+"355",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",8.5,119
+"356",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",8.5,9
+"357",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8.5,3
+"358",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",8.5,1
+"359",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8.5,119
+"360",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.51,1
+"361",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.6,7
+"362",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8.6,1
+"363",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",8.6,4
+"364",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",8.6,4
+"365",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",8.6,295
+"366",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",8.6,3
+"367",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.61,1
+"368",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8.64,1
+"369",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",8.67,3
+"370",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",8.69,2
+"371",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",8.7,21
+"372",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",8.7,4
+"373",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.7,11
+"374",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",8.7,1
+"375",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",8.7,18058
+"376",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",8.7,3
+"377",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8.8,1
+"378",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",8.8,5
+"379",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8.8,1
+"380",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",9,2
+"381",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",9,9
+"382",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",9,24
+"383",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",9,5
+"384",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",9,45362
+"385",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",9,2
+"386",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",9,904
+"387",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",9,32
+"388",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",9,1
+"389",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",9,4
+"390",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",9,2
+"391",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",9,13
+"392",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",9,4
+"393",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",9,16
+"394",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",9,7
+"395",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",9,2
+"396",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",9,2
+"397",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",9,15
+"398",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",9,701
+"399",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",9,39
+"400",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",9,3
+"401",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",9,47
+"402",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",9.1,525
+"403",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",9.1,1
+"404",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",9.6,1
+"405",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",9.64,1
+"406",1146440,NA,45744809,15,8576,"metoclopramide 15 MG/ACTUAT Nasal Spray [Gimoti]",9.8,27
+"407",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",9.8,105
+"408",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",9.8,28
+"409",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",9.8,4
+"410",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",9.9,48
+"411",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",9.9,12250
+"412",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",9.9,1207
+"413",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",10,11
+"414",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",10,4
+"415",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",10,5
+"416",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",10,7
+"417",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",10,12
+"418",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",10,10
+"419",1361138,NA,45744809,10,8576,"sumatriptan 10 MG/ACTUAT Nasal Spray [Tosymra]",10,1
+"420",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",10,4
+"421",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",10,2
+"422",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",10,2
+"423",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",10,11
+"424",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",10,1
+"425",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",10,19
+"426",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",10,2633
+"427",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",10,89
+"428",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",10,1
+"429",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",10,1
+"430",36250089,NA,45744809,15.8,8576,"ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray [Sprix]",10,3
+"431",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",10,1
+"432",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",10,4
+"433",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",10,1
+"434",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",10,267
+"435",36250124,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",10,1049
+"436",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",10,2
+"437",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",10,248
+"438",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",10,2
+"439",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",10,56
+"440",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",10,1
+"441",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",10,29
+"442",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",10,257
+"443",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",10,1
+"444",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",10,2
+"445",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",10,4
+"446",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",10.2,2
+"447",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",10.3,1
+"448",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",10.4,1
+"449",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",10.5,2
+"450",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",10.6,105771
+"451",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",10.6,71041
+"452",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",10.6,2
+"453",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",10.6,9060
+"454",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",10.67,2
+"455",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",10.8,500
+"456",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",10.9,1
+"457",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",11,144
+"458",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",11,115
+"459",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",11,1
+"460",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",11,1
+"461",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",11,1
+"462",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",11,7
+"463",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",11,1
+"464",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",11,1
+"465",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",11,1
+"466",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",11,11
+"467",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",11,1
+"468",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",11,94
+"469",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",11,5
+"470",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",11,14
+"471",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",11,17
+"472",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",11.1,2
+"473",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",11.1,41
+"474",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",11.2,2
+"475",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",11.3,1
+"476",793166,NA,45744809,0.00166,8576,"desmopressin acetate 0.00166 MG/ACTUAT Metered Dose Nasal Spray [Noctiva]",11.4,2
+"477",1593084,NA,45744809,0.00083,8576,"desmopressin acetate 0.00083 MG/ACTUAT Metered Dose Nasal Spray [Noctiva]",11.4,3
+"478",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",11.5,1
+"479",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",11.8,28
+"480",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",12,519
+"481",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",12,2614
+"482",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",12,173
+"483",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",12,4
+"484",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",12,6
+"485",1361138,NA,45744809,10,8576,"sumatriptan 10 MG/ACTUAT Nasal Spray [Tosymra]",12,52
+"486",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",12,2
+"487",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",12,11
+"488",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",12,4
+"489",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",12,331
+"490",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",12,2033
+"491",19121806,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray [Imitrex]",12,8
+"492",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",12,2809
+"493",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",12,32
+"494",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",12,24
+"495",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",12,30
+"496",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",12,5
+"497",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",12,1
+"498",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",12,16
+"499",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",12,22
+"500",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",12,748
+"501",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",12,1
+"502",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",12,29
+"503",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",12,24
+"504",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",12,24
+"505",44785081,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray",12,13
+"506",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",12,118
+"507",36250072,NA,45744809,0.037,8576,"ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",12.2,56
+"508",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",12.3,15
+"509",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",12.5,2697
+"510",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",12.5,1
+"511",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",12.5,47
+"512",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",13,4
+"513",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",13,1118
+"514",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",13,1
+"515",19126354,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [NitroMist]",13,1
+"516",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",13,11
+"517",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",13,1
+"518",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",13,42
+"519",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",13,1
+"520",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",13,2
+"521",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",13,2
+"522",36250085,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray [Nasalcrom]",13,2
+"523",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",13,1
+"524",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",13,1
+"525",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",13,10
+"526",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",13,8
+"527",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",13,1
+"528",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",13,1
+"529",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",13.4,3110
+"530",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",13.4,2
+"531",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",13.4,18520
+"532",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",13.5,3
+"533",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",13.6,40
+"534",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",13.7,1
+"535",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",13.8,2
+"536",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",14,1
+"537",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",14,3
+"538",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",14,1
+"539",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",14,1
+"540",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",14,1
+"541",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",14,4
+"542",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",14,1
+"543",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",14,1
+"544",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",14,1
+"545",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",14,1
+"546",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",14,1
+"547",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",14,13
+"548",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",14,15
+"549",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",14,1
+"550",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",14.4,1
+"551",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",14.7,135
+"552",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",14.7,42
+"553",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",14.7,1
+"554",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",15,4
+"555",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",15,7
+"556",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",15,1
+"557",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",15,1
+"558",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",15,6
+"559",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",15,1
+"560",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",15,1
+"561",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",15,8
+"562",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",15,1715
+"563",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",15,18
+"564",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",15,15
+"565",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",15,163558
+"566",36250077,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",15,2
+"567",36250093,NA,45744809,0.15,8576,"desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",15,1
+"568",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",15,1
+"569",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",15,14
+"570",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",15,1
+"571",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",15,1
+"572",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",15,89
+"573",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",15,1
+"574",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",15,20
+"575",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",15,56
+"576",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",15,21
+"577",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",15,1
+"578",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",15.4,2
+"579",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",15.5,4
+"580",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",15.5,1
+"581",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",15.6,2
+"582",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",15.8,59
+"583",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",15.8,27255
+"584",36250143,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",15.8,78
+"585",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",15.8,1044
+"586",36250169,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasoflow]",15.8,8
+"587",792593,NA,45744809,0.093,8576,"fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",16,13458
+"588",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",16,3
+"589",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",16,1
+"590",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",16,2
+"591",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",16,1
+"592",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",16,19
+"593",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",16,14
+"594",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",16,11
+"595",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",16,1
+"596",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",16,352
+"597",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",16,3
+"598",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",16,13
+"599",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",16,1
+"600",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",16,1
+"601",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",16,127
+"602",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",16,22
+"603",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",16,1
+"604",36250112,NA,45744809,0.2,8576,"nafarelin 0.2 MG/ACTUAT Metered Dose Nasal Spray [Synarel]",16,10
+"605",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",16,6
+"606",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",16,2
+"607",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",16,2469089
+"608",36250143,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",16,2
+"609",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",16,28
+"610",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",16,87
+"611",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",16,55
+"612",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",16,101
+"613",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",16,13
+"614",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",16.07,1
+"615",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",16.2,708
+"616",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",16.5,34
+"617",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",16.5,3
+"618",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",16.6,1
+"619",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",16.6,1
+"620",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",16.86,32
+"621",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",16.86,6
+"622",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",16.9,11191
+"623",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",16.9,677
+"624",37499518,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Aller-Cort]",16.9,1
+"625",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",17,80083
+"626",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",17,2
+"627",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",17,55078
+"628",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",17,49
+"629",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",17,2
+"630",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",17,1
+"631",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",17,2
+"632",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",17,3
+"633",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",17,3
+"634",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",17,179349
+"635",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",17,5
+"636",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",17,10342
+"637",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",17,46
+"638",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",17,3072
+"639",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",17,206
+"640",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",17,14
+"641",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",17,2
+"642",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",17,15
+"643",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",17,114
+"644",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",17,1
+"645",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",17.1,1
+"646",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",17.2,2
+"647",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",17.23,1
+"648",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",17.28,2
+"649",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",17.4,1
+"650",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",17.4,207
+"651",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",17.5,2
+"652",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",17.5,2
+"653",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",17.6,1
+"654",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",17.7,15
+"655",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",17.82,1
+"656",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",17.94,1
+"657",789793,NA,45744809,0.09,8576,"Sensor 200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler [ProAir]",18,2
+"658",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",18,219
+"659",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",18,1152
+"660",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",18,15
+"661",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",18,54
+"662",1361138,NA,45744809,10,8576,"sumatriptan 10 MG/ACTUAT Nasal Spray [Tosymra]",18,6
+"663",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",18,519
+"664",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",18,1018033
+"665",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",18,5
+"666",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",18,52
+"667",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",18,386
+"668",19121806,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray [Imitrex]",18,9
+"669",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",18,82
+"670",36250072,NA,45744809,0.037,8576,"ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",18,5
+"671",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",18,1
+"672",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",18,3
+"673",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",18,1
+"674",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",18,49
+"675",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",18,1855017
+"676",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",18,5
+"677",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",18,17
+"678",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",18.2,2
+"679",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",18.2,11
+"680",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",18.2,10
+"681",36250143,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",18.2,5
+"682",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",18.2,69
+"683",36250072,NA,45744809,0.037,8576,"ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",18.3,278
+"684",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",18.5,2
+"685",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",18.5,22
+"686",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",18.6,1
+"687",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",18.87,2
+"688",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",18.9,1
+"689",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",19,1
+"690",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",19,1
+"691",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",19,3
+"692",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",19,7
+"693",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",19.6,2
+"694",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",19.8,128
+"695",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",19.8,11
+"696",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",20,1
+"697",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",20,65
+"698",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",20,1
+"699",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",20,1
+"700",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",20,6
+"701",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",20,834
+"702",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",20,2
+"703",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",20,1
+"704",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",20,2
+"705",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",20,5
+"706",36250108,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray [Astelin]",20,1
+"707",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",20,17
+"708",36250124,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",20,11
+"709",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",20,5
+"710",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",20,2
+"711",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",20,6
+"712",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",20,15
+"713",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",20,15
+"714",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",20,1
+"715",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",20.1,3881
+"716",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",20.1,1
+"717",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",20.1,18135
+"718",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",20.1,1
+"719",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",20.4,19
+"720",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",20.5,1
+"721",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",21,3
+"722",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",21,1
+"723",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",21,3
+"724",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",21,1
+"725",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",21,1
+"726",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",21,5
+"727",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",21,2
+"728",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",21,1
+"729",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",21.2,2597
+"730",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",21.2,1028
+"731",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",21.2,137
+"732",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",21.6,7
+"733",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",22,1
+"734",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",22,1
+"735",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",22,1
+"736",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",22,3
+"737",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",22,1
+"738",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",22,4
+"739",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",22,17
+"740",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",22,1
+"741",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",22.5,2
+"742",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",23,3
+"743",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",23,1
+"744",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",23,5
+"745",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",23,24889
+"746",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",23,24889
+"747",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",23,104069
+"748",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",23,104069
+"749",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",23,11
+"750",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",23,2
+"751",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",23,8
+"752",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",23,4
+"753",19133310,NA,45744809,5,8576,"zolpidem tartrate 5 MG/ACTUAT Oral Spray [Zolpimist]",23.1,3
+"754",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",24,21
+"755",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",24,99
+"756",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",24,2
+"757",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",24,2
+"758",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",24,1
+"759",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",24,26
+"760",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",24,11
+"761",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",24,41
+"762",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",24,71
+"763",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",24,49
+"764",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",24,4
+"765",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",24,4
+"766",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",24,5
+"767",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",24,36
+"768",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",24,127
+"769",40163846,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray [Migranal]",24,7
+"770",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",24,4
+"771",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",24,8
+"772",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",24,1
+"773",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",24,24
+"774",44785081,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray",24,2
+"775",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",24.3,830
+"776",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",24.5,7
+"777",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",25,288
+"778",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",25,6
+"779",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",25,3
+"780",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",25,1
+"781",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",25,1
+"782",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",25,253
+"783",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",25,3
+"784",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",25,1
+"785",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",25,77
+"786",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",25,19370
+"787",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",25,1
+"788",36250104,NA,45744809,0.029,8576,"flunisolide 0.029 MG/ACTUAT Metered Dose Nasal Spray",25,1
+"789",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",25,1
+"790",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",25,3
+"791",36250151,NA,45744809,0.042,8576,"beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",25,1329
+"792",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",25,2
+"793",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",25,3
+"794",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",25,3
+"795",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",25,34
+"796",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",25.2,5
+"797",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",25.29,79
+"798",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",25.29,4
+"799",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",25.5,87155
+"800",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",25.5,60793
+"801",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",25.5,5
+"802",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",25.5,1
+"803",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",25.5,4
+"804",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",25.8,7
+"805",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",26,1
+"806",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",26,1798
+"807",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",26,1
+"808",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",26,18
+"809",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",26,1
+"810",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",26,1
+"811",36250083,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray",26,458
+"812",36250085,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray [Nasalcrom]",26,41
+"813",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",26,1
+"814",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",26,2
+"815",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",26,20
+"816",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",26,5
+"817",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",26.1,1
+"818",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",26.1,1358
+"819",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",26.8,200
+"820",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",26.8,801
+"821",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",27,5
+"822",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",27,1
+"823",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",27,18
+"824",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",27,1
+"825",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",27,1
+"826",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",27,3
+"827",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",27,1
+"828",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",27,7
+"829",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",27,1
+"830",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",27.3,8
+"831",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",27.5,1
+"832",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",28,1
+"833",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",28,1
+"834",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",28,5
+"835",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",28,4
+"836",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",28,7
+"837",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",28.7,1
+"838",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",29,1
+"839",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",29,2
+"840",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",29,1
+"841",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",29,3
+"842",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",29,1
+"843",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",29,6
+"844",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",29,1
+"845",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",29.4,7
+"846",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",29.5,1
+"847",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",29.52,1
+"848",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",29.7,177
+"849",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",29.7,10
+"850",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",30,7
+"851",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",30,39
+"852",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",30,3
+"853",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",30,1
+"854",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",30,1
+"855",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",30,1
+"856",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",30,7
+"857",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",30,18
+"858",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",30,1
+"859",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",30,2
+"860",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",30,281
+"861",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",30,3
+"862",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",30,1
+"863",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",30,98671
+"864",36250068,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",30,3
+"865",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",30,8965
+"866",36250077,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]",30,1
+"867",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",30,7
+"868",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",30,7
+"869",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",30,2
+"870",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",30,15
+"871",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",30,555293
+"872",36250108,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray [Astelin]",30,1
+"873",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",30,73646
+"874",36250116,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray [Astepro]",30,516
+"875",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",30,68
+"876",36250124,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",30,60
+"877",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",30,595
+"878",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",30,396
+"879",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",30,29
+"880",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",30,1
+"881",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",30,9
+"882",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",30,116
+"883",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",30,7
+"884",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",30,15
+"885",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",30,8
+"886",42707853,NA,45744809,0.2,8576,"fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]",30,16
+"887",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",30,29
+"888",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",30,223
+"889",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",30,144
+"890",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",30.5,35524
+"891",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",30.5,661
+"892",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",31,3
+"893",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",31,1
+"894",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",31,2
+"895",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",31,440
+"896",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",31,8
+"897",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",31,2
+"898",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",31,1
+"899",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",31.6,4
+"900",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",31.6,83
+"901",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",31.6,6
+"902",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",31.8,8972
+"903",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",31.8,4151
+"904",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",31.8,980
+"905",792593,NA,45744809,0.093,8576,"fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",32,3552
+"906",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",32,11
+"907",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",32,6
+"908",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",32,1
+"909",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",32,4
+"910",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",32,2
+"911",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",32,1
+"912",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",32,34833
+"913",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",32,5
+"914",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",32,4
+"915",40163846,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray [Migranal]",32,3
+"916",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",32,6
+"917",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",32,1
+"918",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",32,1
+"919",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",32.4,34
+"920",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",32.4,15
+"921",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",32.41,1
+"922",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",33,1
+"923",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",33,1
+"924",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",33,1
+"925",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",33,2
+"926",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",33,1
+"927",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",33.5,33
+"928",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",33.5,251
+"929",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",33.75,1
+"930",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",33.8,251
+"931",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",33.8,43
+"932",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",34,1983
+"933",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",34,1
+"934",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",34,1699
+"935",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",34,2
+"936",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",34,1
+"937",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",34,3292
+"938",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",34,2
+"939",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",34,254
+"940",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",34,1
+"941",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",34,45
+"942",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",34,21
+"943",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",34,2
+"944",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",34.46,1
+"945",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",34.8,4
+"946",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",35,110
+"947",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",35,1
+"948",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",35,2
+"949",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",35.4,1
+"950",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",36,10
+"951",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",36,94
+"952",1361138,NA,45744809,10,8576,"sumatriptan 10 MG/ACTUAT Nasal Spray [Tosymra]",36,5
+"953",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",36,16
+"954",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",36,36402
+"955",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",36,1
+"956",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",36,2
+"957",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",36,59
+"958",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",36,130
+"959",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",36,6
+"960",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",36,9
+"961",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",36,75627
+"962",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",36,29
+"963",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",36,2
+"964",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",36.4,1
+"965",36250072,NA,45744809,0.037,8576,"ciclesonide 0.037 MG/ACTUAT Metered Dose Nasal Spray [Zetonna]",36.6,14
+"966",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",37.5,321
+"967",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",37.5,6
+"968",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",38,2
+"969",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",38,4
+"970",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",38,1
+"971",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",38,3
+"972",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",38,4
+"973",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",39,1
+"974",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",39,2
+"975",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",39,1
+"976",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",39.2,1
+"977",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",39.6,1
+"978",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",40,1
+"979",1140680,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray [Imitrex]",40,2
+"980",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",40,4
+"981",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",40,1
+"982",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",40,173
+"983",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",40,5
+"984",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",40,1
+"985",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",40,2580
+"986",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",40,2
+"987",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",40,1
+"988",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",40,1
+"989",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",40,12
+"990",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",40,2
+"991",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",40.2,94
+"992",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",40.2,142
+"993",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",40.5,91
+"994",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",41,3
+"995",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",41,1
+"996",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",42,5
+"997",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",42,1
+"998",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",42,5
+"999",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",42,1
+"1000",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",42.4,50
+"1001",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",42.5,1051
+"1002",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",42.5,1264
+"1003",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",43,50
+"1004",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",43,1
+"1005",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",43,1
+"1006",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",43,2
+"1007",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",44,1
+"1008",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",44,1
+"1009",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",45,2
+"1010",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",45,82
+"1011",35605152,NA,45744809,0.3,8576,"fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",45,3
+"1012",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",45,18721
+"1013",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",45,3
+"1014",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",45,5
+"1015",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",45,2
+"1016",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",45,2
+"1017",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",45,1
+"1018",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",45,5
+"1019",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",46,191
+"1020",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",46,191
+"1021",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",46,554
+"1022",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",46,554
+"1023",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",46,2
+"1024",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",46.9,1
+"1025",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",46.9,2
+"1026",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",47,2
+"1027",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",47,5
+"1028",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",47.4,1
+"1029",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",47.4,246
+"1030",36250143,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",47.4,4
+"1031",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",47.4,38
+"1032",792593,NA,45744809,0.093,8576,"fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",48,175
+"1033",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",48,1
+"1034",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",48,2
+"1035",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",48,1
+"1036",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",48,343748
+"1037",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",48,2
+"1038",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",48,2
+"1039",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",48,6
+"1040",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",48,2
+"1041",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",48.6,23
+"1042",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",49,1
+"1043",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",49.5,2
+"1044",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",49.5,1
+"1045",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",50,20
+"1046",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",50,2
+"1047",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",50,514
+"1048",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",50,1
+"1049",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",50,1
+"1050",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",50,1
+"1051",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",50,2
+"1052",36250151,NA,45744809,0.042,8576,"beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",50,32
+"1053",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",50,1
+"1054",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",50.7,231
+"1055",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",50.7,18
+"1056",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",51,1467
+"1057",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",51,1263
+"1058",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",51,2
+"1059",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",51,1
+"1060",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",51,24382
+"1061",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",51,1
+"1062",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",51,790
+"1063",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",51,2
+"1064",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",51,12
+"1065",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",51,11
+"1066",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",51,4
+"1067",36250083,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray",52,5
+"1068",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",52,1
+"1069",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",52.2,27
+"1070",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",53,28
+"1071",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",53,1
+"1072",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",53,1
+"1073",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",53,2
+"1074",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",53.6,18
+"1075",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",54,17
+"1076",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",54,14
+"1077",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",54,59415
+"1078",19102180,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray",54,1
+"1079",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",54,6
+"1080",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",54,2
+"1081",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",54,1
+"1082",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",54,1
+"1083",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",54,1
+"1084",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",54,1
+"1085",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",54,72460
+"1086",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",54,2
+"1087",36250143,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",54.6,1
+"1088",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",55,33
+"1089",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",56,2
+"1090",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",56,2
+"1091",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",56,6
+"1092",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",58,5
+"1093",702092,NA,45744809,0.03,8576,"varenicline 0.03 MG/ACTUAT Nasal Spray [Tyrvaya]",58.8,1
+"1094",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",59,1
+"1095",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",59,1
+"1096",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",59,1
+"1097",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",59,1
+"1098",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",59.4,2
+"1099",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",59.5,8
+"1100",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",59.5,3
+"1101",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",60,3
+"1102",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",60,1
+"1103",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",60,1
+"1104",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",60,1
+"1105",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",60,1
+"1106",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",60,3
+"1107",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",60,349
+"1108",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",60,96
+"1109",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",60,2663
+"1110",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",60,857
+"1111",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",60,9734
+"1112",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",60,2155
+"1113",36250116,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray [Astepro]",60,18
+"1114",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",60,2
+"1115",36250124,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",60,1
+"1116",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",60,3
+"1117",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",60,4
+"1118",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",60,1
+"1119",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",60,4
+"1120",40240781,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",60,1
+"1121",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",60,11
+"1122",42707853,NA,45744809,0.2,8576,"fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]",60,16
+"1123",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",60,10
+"1124",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",60,17
+"1125",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",60,149
+"1126",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",60.3,4
+"1127",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",61,1
+"1128",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",61,541
+"1129",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",61,4
+"1130",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",61,2
+"1131",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",62,1
+"1132",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",62.5,1
+"1133",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",63,1
+"1134",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",63.2,1
+"1135",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",63.6,137
+"1136",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",63.6,4
+"1137",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",63.6,18
+"1138",792593,NA,45744809,0.093,8576,"fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",64,4
+"1139",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",64,3
+"1140",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",64,154
+"1141",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",64,1
+"1142",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",65,1
+"1143",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",65,2
+"1144",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",65,4
+"1145",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",65,1
+"1146",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",67,1
+"1147",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",67,1
+"1148",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",68,36
+"1149",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",68,24
+"1150",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",68,31
+"1151",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",68,7
+"1152",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",69,1
+"1153",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",69,1571
+"1154",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",69,1571
+"1155",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",69,4743
+"1156",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",69,4743
+"1157",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",69,1
+"1158",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",70,1
+"1159",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",70,1
+"1160",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",70,24
+"1161",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",72,6
+"1162",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",72,1445
+"1163",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",72,1
+"1164",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",72,1
+"1165",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",72,2
+"1166",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",72,1
+"1167",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",72,1119
+"1168",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",73,1
+"1169",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",74,1
+"1170",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",74.2,14
+"1171",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",75,1
+"1172",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",75,3
+"1173",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",75,26
+"1174",19135604,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray [DDAVP]",75,9
+"1175",36250075,NA,45744809,0.05,8576,"ciclesonide 0.05 MG/ACTUAT Metered Dose Nasal Spray [Omnaris]",75,12
+"1176",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",75,576
+"1177",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",75,1655
+"1178",36250151,NA,45744809,0.042,8576,"beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",75,115
+"1179",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",75,1
+"1180",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",75,5
+"1181",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",75.87,1
+"1182",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",76.5,8
+"1183",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",76.5,11
+"1184",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",77,1
+"1185",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",78,1
+"1186",36250083,NA,45744809,5.2,8576,"cromolyn sodium 5.2 MG/ACTUAT Metered Dose Nasal Spray",78,3
+"1187",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",78,1
+"1188",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",79,1
+"1189",36250143,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Aller-Flo]",79,1
+"1190",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",80,1
+"1191",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",80,20
+"1192",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",80,356
+"1193",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",80,10
+"1194",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",80,1
+"1195",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",81,1
+"1196",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",81,1
+"1197",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",83,1
+"1198",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",84,3
+"1199",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",84,1
+"1200",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",85,12
+"1201",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",85,3
+"1202",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",85,1
+"1203",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",85,4
+"1204",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",85,5
+"1205",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",88,1
+"1206",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",90,2
+"1207",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",90,1317
+"1208",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",90,1
+"1209",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",90,37
+"1210",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",90,9496
+"1211",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",90,1363
+"1212",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",90,45991
+"1213",36250108,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray [Astelin]",90,1
+"1214",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",90,5482
+"1215",36250116,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray [Astepro]",90,19
+"1216",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",90,4
+"1217",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",90,1205
+"1218",40240785,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]",90,2
+"1219",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",90,10
+"1220",42707853,NA,45744809,0.2,8576,"fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]",90,36
+"1221",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",90,15
+"1222",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",90,35
+"1223",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",90,23
+"1224",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",91,1
+"1225",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",91,12
+"1226",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",91,2
+"1227",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",91.5,3199
+"1228",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",91.5,45
+"1229",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",92,2
+"1230",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",92,9
+"1231",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",92,9
+"1232",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",92,12
+"1233",36250132,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [PATANASE]",92,2
+"1234",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",93,1
+"1235",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",93.5,2
+"1236",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",94,1
+"1237",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",94,1
+"1238",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",95,7
+"1239",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",95.4,6
+"1240",792593,NA,45744809,0.093,8576,"fluticasone propionate 0.093 MG/ACTUAT Metered Dose Nasal Spray [Xhance]",96,9
+"1241",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",96,1
+"1242",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",96,938
+"1243",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",96,1
+"1244",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",100,1
+"1245",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",100,4
+"1246",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",100,146
+"1247",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",100,12
+"1248",36250151,NA,45744809,0.042,8576,"beclomethasone dipropionate 0.042 MG/ACTUAT Metered Dose Nasal Spray [Beconase]",100,19
+"1249",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",100,9
+"1250",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",100,1
+"1251",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",101,2
+"1252",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",101.4,1
+"1253",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",102,15
+"1254",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",102,1
+"1255",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",102,360
+"1256",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",102,18
+"1257",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",102,1
+"1258",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",105,1
+"1259",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",105,1
+"1260",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",105,134
+"1261",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",105.3,2
+"1262",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",106,2
+"1263",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",106,1
+"1264",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",107,1
+"1265",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",108,1080
+"1266",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",108,776
+"1267",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",110,6
+"1268",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",111,1
+"1269",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",112,1
+"1270",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",114,1
+"1271",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",115,2
+"1272",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",118,1
+"1273",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",119,1
+"1274",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",119,5
+"1275",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",120,9
+"1276",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",120,98
+"1277",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",120,95
+"1278",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",120,789
+"1279",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",120,142
+"1280",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",120,275
+"1281",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",120,8
+"1282",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",120,82
+"1283",42707853,NA,45744809,0.2,8576,"fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]",120,40
+"1284",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",120,56
+"1285",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",120,93
+"1286",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",120,69
+"1287",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",120.6,4
+"1288",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",122,1
+"1289",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",122.5,2
+"1290",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",124,1
+"1291",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",125,1
+"1292",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",126,1
+"1293",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",126,5
+"1294",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",128,1
+"1295",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",131,1
+"1296",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",135,15
+"1297",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",135,157
+"1298",40222902,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray [Nitrolingual]",135,1
+"1299",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",136,1
+"1300",36250079,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",138,6
+"1301",36250079,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",138,6
+"1302",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",138,24
+"1303",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",138,24
+"1304",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",144,3
+"1305",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",144,1
+"1306",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",144,15
+"1307",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",144,7
+"1308",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",145,2
+"1309",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",146,1
+"1310",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",146,1
+"1311",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",148,1
+"1312",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",150,5
+"1313",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",150,9
+"1314",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",150,34
+"1315",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",150,4
+"1316",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",150,11
+"1317",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",150,1
+"1318",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",150,1
+"1319",42707853,NA,45744809,0.2,8576,"fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]",150,5
+"1320",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",150,4
+"1321",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",150,27
+"1322",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",150,1
+"1323",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",153,5
+"1324",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",153,1
+"1325",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",156,1
+"1326",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",158.4,1
+"1327",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",159,1
+"1328",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",160,110
+"1329",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",160,1
+"1330",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",162,10
+"1331",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",162,3
+"1332",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",165,1
+"1333",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",168,1
+"1334",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",170,1
+"1335",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",170,1
+"1336",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",172,1
+"1337",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",172,1
+"1338",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",175,2
+"1339",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",176,1
+"1340",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",180,2
+"1341",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",180,6
+"1342",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",180,5
+"1343",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",180,8
+"1344",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",180,8
+"1345",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",180,3
+"1346",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",180,1
+"1347",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",180,9
+"1348",42707851,NA,45744809,0.1,8576,"fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]",180,31
+"1349",42707853,NA,45744809,0.2,8576,"fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]",180,28
+"1350",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",180,7
+"1351",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",180,7
+"1352",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",180,22
+"1353",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",182,1
+"1354",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",183,1
+"1355",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",186,1
+"1356",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",187,1
+"1357",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",187,1
+"1358",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",189,2
+"1359",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",192,6
+"1360",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",198,5
+"1361",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",198,4
+"1362",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",200,5
+"1363",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",200,6
+"1364",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",200,1
+"1365",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",200,24
+"1366",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",200,21
+"1367",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",200,8
+"1368",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",200,1
+"1369",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",200,1
+"1370",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",200,17
+"1371",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",200,4
+"1372",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",200,29
+"1373",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",202,1
+"1374",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",204,1
+"1375",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",204,1
+"1376",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",205,1
+"1377",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",213,3
+"1378",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",214,1
+"1379",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",216,1
+"1380",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",216,23
+"1381",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",225,1
+"1382",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",225,4
+"1383",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",230,1
+"1384",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",240,1
+"1385",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",240,13
+"1386",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",240,1
+"1387",42707855,NA,45744809,0.4,8576,"fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]",240,1
+"1388",42707857,NA,45744809,0.6,8576,"fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]",240,1
+"1389",42707859,NA,45744809,0.8,8576,"fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]",240,50
+"1390",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",241.2,1
+"1391",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",243,2
+"1392",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",252,2
+"1393",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",252.8,1
+"1394",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",256,2
+"1395",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",269,1
+"1396",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",270,1
+"1397",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",270,11
+"1398",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",270,9
+"1399",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",270.4,1
+"1400",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",274.5,2
+"1401",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",280,1
+"1402",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",295,1
+"1403",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",300,4
+"1404",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",300,18
+"1405",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",300,5
+"1406",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",305,1
+"1407",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",311,1
+"1408",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",319,1
+"1409",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",324,2
+"1410",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",333,1
+"1411",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",337,1
+"1412",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",346,1
+"1413",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",359,1
+"1414",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",360,5
+"1415",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",377,1
+"1416",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",384,1
+"1417",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",384,1
+"1418",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",387,1
+"1419",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",394,9
+"1420",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",394,102
+"1421",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",400,1
+"1422",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",400,1
+"1423",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",400,2
+"1424",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",433,1
+"1425",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",448,1
+"1426",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",459,5
+"1427",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",525,1
+"1428",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",525,1
+"1429",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",526,1
+"1430",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",589,1
+"1431",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",594,1
+"1432",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",600,327
+"1433",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",625,1
+"1434",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",634,1
+"1435",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",636,1
+"1436",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",642,1
+"1437",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",649,1
+"1438",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",708,1
+"1439",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",721,1
+"1440",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",738,25
+"1441",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",750,1
+"1442",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",768,2
+"1443",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",781,1
+"1444",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",788,1
+"1445",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",800,1
+"1446",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",828,1
+"1447",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",897,1
+"1448",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",900,1
+"1449",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",999,5
+"1450",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",999,34
+"1451",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",999,2
+"1452",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",1476,2
+"1453",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",1600,2
+"1454",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",1660,1
+"1455",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",1920,4
+"1456",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",6000,13
+"1457",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",8000,11
+"1458",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",8500,1
+"1459",963843,NA,45744809,0.08,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]",NA,36
+"1460",963845,NA,45744809,0.04,8576,"Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",NA,18
+"1461",1140648,NA,45744809,5,8576,"sumatriptan 5 MG/ACTUAT Nasal Spray",NA,5
+"1462",1140672,NA,45744809,20,8576,"sumatriptan 20 MG/ACTUAT Nasal Spray",NA,15
+"1463",1154619,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",NA,3916
+"1464",1154621,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil]",NA,143
+"1465",1511246,NA,45744809,0.09,8576,"NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",NA,157
+"1466",1511247,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",NA,282
+"1467",1511248,NA,45744809,0.09,8576,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",NA,68
+"1468",1548969,NA,45744809,1.53,8576,"estradiol 1.53 MG/ACTUAT Topical Spray [Evamist]",NA,21
+"1469",1594240,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Flonase Sensimist]",NA,1
+"1470",19102214,NA,45744809,5,8576,"zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]",NA,9
+"1471",19126352,NA,45744809,0.4,8576,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",NA,8
+"1472",19131111,NA,45744809,0.09,8576,"NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",NA,8
+"1473",19135602,NA,45744809,0.01,8576,"desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",NA,8
+"1474",36250066,NA,45744809,0.021,8576,"ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray",NA,69
+"1475",36250076,NA,45744809,0.042,8576,"ipratropium bromide 0.042 MG/ACTUAT Metered Dose Nasal Spray",NA,126
+"1476",36250081,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",NA,165
+"1477",36250081,NA,45744809,0.05,8576,"azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",NA,165
+"1478",36250089,NA,45744809,15.8,8576,"ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray [Sprix]",NA,4
+"1479",36250095,NA,45744809,0.025,8576,"flunisolide 0.025 MG/ACTUAT Metered Dose Nasal Spray",NA,13
+"1480",36250097,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",NA,487
+"1481",36250099,NA,45744809,0.137,8576,"azelastine hydrochloride 0.137 MG/ACTUAT Metered Dose Nasal Spray",NA,445
+"1482",36250102,NA,45744809,0.05,8576,"mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",NA,14
+"1483",36250115,NA,45744809,0.206,8576,"azelastine hydrochloride 0.206 MG/ACTUAT Metered Dose Nasal Spray",NA,77
+"1484",36250120,NA,45744809,0.5,8576,"nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",NA,3
+"1485",36250124,NA,45744809,0.0275,8576,"fluticasone furoate 0.0275 MG/ACTUAT Metered Dose Nasal Spray [Veramyst]",NA,3
+"1486",36250129,NA,45744809,0.665,8576,"olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",NA,49
+"1487",36250136,NA,45744809,0.04,8576,"beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",NA,5
+"1488",36250141,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray",NA,4660
+"1489",36250147,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray",NA,12
+"1490",36250149,NA,45744809,0.055,8576,"triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]",NA,7
+"1491",36250155,NA,45744809,0.08,8576,"beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Nasal Spray [Qnasl]",NA,37
+"1492",36250163,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray",NA,23
+"1493",36250165,NA,45744809,0.032,8576,"budesonide 0.032 MG/ACTUAT Metered Dose Nasal Spray [Rhinocort]",NA,3
+"1494",36250167,NA,45744809,0.05,8576,"fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Flonase]",NA,44
+"1495",40163845,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray",NA,20
+"1496",40163846,NA,45744809,0.5,8576,"dihydroergotamine mesylate 0.5 MG/ACTUAT Metered Dose Nasal Spray [Migranal]",NA,1
+"1497",40163900,NA,45744809,0.09,8576,"NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",NA,1920
+"1498",40165411,NA,45744809,0.5,8576,"vitamin B12 0.5 MG/ACTUAT Nasal Spray [Nascobal]",NA,69
+"1499",40168599,NA,45744809,1,8576,"butorphanol tartrate 1 MG/ACTUAT Metered Dose Nasal Spray",NA,5
+"1500",44785082,NA,45744809,2.5,8576,"zolmitriptan 2.5 MG/ACTUAT Nasal Spray [Zomig]",NA,1

@@ -1,0 +1,286 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",0.4,1
+"2",948860,NA,8587,0.1,8587,"polyvinyl alcohol 0.1 ML/ML Ophthalmic Solution",1,1
+"3",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",1,295
+"4",955435,NA,8587,0.7,8587,"ethanol 0.7 ML/ML Topical Solution",1,2
+"5",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",1,7
+"6",1594090,NA,8587,0.98,8587,"ethanol 0.98 ML/ML Injection",1,1
+"7",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",1,407
+"8",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1,3203
+"9",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",1,400
+"10",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",1,36
+"11",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",1,5
+"12",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",1,800
+"13",37497937,NA,8587,0.47,8587,"ethanol 0.47 ML/ML / iodine 20 MG/ML / sodium iodide 24 MG/ML Topical Solution",1,10
+"14",40223673,NA,8587,0.7,8587,"chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Topical Solution [ChloraPrep]",1,303
+"15",40229962,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution [MiniDrops]",1,1
+"16",40235757,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution [Tears Again Eye Drops]",1,1
+"17",40236097,NA,8587,0.74,8587,"iodine povacrylex 7 MG/ML / isopropyl alcohol 0.74 ML/ML Topical Solution [DuraPrep]",1,10
+"18",43013041,NA,8587,0.7,8587,"chlorhexidine gluconate 31.5 MG/ML / isopropyl alcohol 0.7 ML/ML Medicated Pad [Prevantics]",1,3
+"19",46234012,NA,8587,0.5,8587,"mineral oil 0.5 ML/ML Oral Suspension [Kondremul Plain]",1,1
+"20",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",2,72
+"21",1594090,NA,8587,0.98,8587,"ethanol 0.98 ML/ML Injection",2,3
+"22",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",2,15
+"23",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",2,56
+"24",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",2,14
+"25",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",2,3
+"26",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",2,1
+"27",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",2,23
+"28",40223673,NA,8587,0.7,8587,"chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Topical Solution [ChloraPrep]",2,176
+"29",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",3,15
+"30",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",3,6
+"31",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",3,22
+"32",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",3,1
+"33",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",3,2
+"34",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",3,1
+"35",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",3,5
+"36",40223673,NA,8587,0.7,8587,"chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Topical Solution [ChloraPrep]",3,27
+"37",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",3.5,2
+"38",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",4,22
+"39",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",4,8
+"40",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",4,39
+"41",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",4,6
+"42",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",4,3
+"43",40223673,NA,8587,0.7,8587,"chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Topical Solution [ChloraPrep]",4,1
+"44",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",5,2
+"45",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",5,17
+"46",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",5,3
+"47",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",5,2
+"48",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",5,3
+"49",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",5,11
+"50",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",5,2
+"51",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",6,5
+"52",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",6,2
+"53",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",6,6
+"54",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",6,1
+"55",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",6,1
+"56",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",6,8
+"57",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",6,2
+"58",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",7,2
+"59",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",7,1
+"60",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",7,1
+"61",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",7,1
+"62",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",7,4
+"63",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",8,1
+"64",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",8,11
+"65",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",8,3
+"66",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",8,3
+"67",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",9,1
+"68",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",9,2
+"69",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",9,3
+"70",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",10,14
+"71",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",10,125
+"72",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",10,5
+"73",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",10,1
+"74",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",11,1
+"75",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",11,3
+"76",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",12,4
+"77",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",12,2
+"78",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",12,4
+"79",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",12,1
+"80",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",13,1
+"81",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",14,1
+"82",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",14,7
+"83",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",15,16
+"84",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",15,11157
+"85",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",15,6
+"86",19102294,NA,8587,0.99,8587,"isopropyl alcohol 0.99 ML/ML Topical Solution",15,1
+"87",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",15,372
+"88",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",15,13
+"89",40235757,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution [Tears Again Eye Drops]",15,43
+"90",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",15.1,1
+"91",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",16,1
+"92",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",18,1
+"93",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",18,2
+"94",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",20,1
+"95",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",20,1526
+"96",40235757,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution [Tears Again Eye Drops]",20,1
+"97",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",21,2
+"98",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",22,1
+"99",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",23,1
+"100",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",24,17
+"101",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",25,64
+"102",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",25,2
+"103",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",28,1
+"104",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",28,6
+"105",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",30,474
+"106",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",30,478
+"107",19028170,NA,8587,0.95,8587,"isopropyl alcohol 0.95 ML/ML Otic Solution",30,3
+"108",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",30,1005
+"109",19102294,NA,8587,0.99,8587,"isopropyl alcohol 0.99 ML/ML Topical Solution",30,1
+"110",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",30,9
+"111",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",30,11
+"112",40223673,NA,8587,0.7,8587,"chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Topical Solution [ChloraPrep]",30,12
+"113",40235757,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution [Tears Again Eye Drops]",30,1
+"114",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",30.6,1
+"115",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",31,8
+"116",19121877,NA,8587,0.91,8587,"isopropyl alcohol 0.91 ML/ML Topical Solution",31,1
+"117",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",32,1
+"118",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",32,1
+"119",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",33,1
+"120",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",34,1
+"121",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",35,1
+"122",46234012,NA,8587,0.5,8587,"mineral oil 0.5 ML/ML Oral Suspension [Kondremul Plain]",35,3
+"123",42799259,NA,8587,0.1,8587,"benzyl alcohol 0.1 ML/ML / pramoxine hydrochloride 0.01 MG/MG Topical Gel [Itch-X]",35.4,1
+"124",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",36,1
+"125",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",38,1
+"126",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",38,5
+"127",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",39,23
+"128",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",40,34
+"129",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",43,1
+"130",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",45,1
+"131",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",45,41
+"132",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",45,1
+"133",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",48,1
+"134",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",48,2
+"135",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",50,152
+"136",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",50,1000
+"137",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",53,1
+"138",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",54,1
+"139",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",54,1
+"140",40220893,NA,8587,0.48,8587,"ethanol 0.48 ML/ML Topical Solution",59,1
+"141",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",60,68
+"142",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",60,3
+"143",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",60,1174
+"144",19122241,NA,8587,0.005,8587,"polyvinyl alcohol 0.005 ML/ML / povidone 6 MG/ML Ophthalmic Solution",60,5
+"145",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",60,13
+"146",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",60,1
+"147",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",62,3
+"148",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",63,1
+"149",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",66,1
+"150",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",68,7
+"151",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",70,1
+"152",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",72,9
+"153",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",74,1
+"154",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",75,5
+"155",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",76,1
+"156",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",80,23
+"157",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",83,1
+"158",1592570,NA,8587,0.1,8587,"benzyl alcohol 0.1 ML/ML / lidocaine hydrochloride 40 MG/ML Topical Cream",85,2
+"159",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",90,5
+"160",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",90,713
+"161",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",90,1
+"162",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",93.33,1
+"163",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",98,2
+"164",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",99,9
+"165",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",100,8
+"166",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",100,199264
+"167",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",100,1
+"168",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",102,1
+"169",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",102,1
+"170",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",103,9
+"171",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",103.5,57
+"172",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",103.5,578
+"173",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",104,35
+"174",42799259,NA,8587,0.1,8587,"benzyl alcohol 0.1 ML/ML / pramoxine hydrochloride 0.01 MG/MG Topical Gel [Itch-X]",106.2,1
+"175",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",109,1
+"176",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",116,31
+"177",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",116,63
+"178",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",120,5
+"179",955435,NA,8587,0.7,8587,"ethanol 0.7 ML/ML Topical Solution",120,1
+"180",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",120,1582
+"181",19102294,NA,8587,0.99,8587,"isopropyl alcohol 0.99 ML/ML Topical Solution",120,20
+"182",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",120,2
+"183",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",124,57
+"184",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",130,2
+"185",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",133,1
+"186",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",140,11
+"187",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",148,2
+"188",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",150,304
+"189",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",160,2
+"190",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",165,1
+"191",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",172,5
+"192",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",174,2
+"193",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",180,2
+"194",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",180,212
+"195",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",180,3
+"196",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",181,1
+"197",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",200,1
+"198",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",200,33826
+"199",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",207,8
+"200",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",207,38
+"201",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",210,40
+"202",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",224,15
+"203",42901858,NA,8587,0.05,8587,"benzyl alcohol 0.05 ML/ML Topical Lotion [Ulesfia]",227,106
+"204",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",232,15
+"205",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",232,11
+"206",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",240,1
+"207",955435,NA,8587,0.7,8587,"ethanol 0.7 ML/ML Topical Solution",240,11
+"208",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",240,170
+"209",19132492,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Topical Solution",240,2
+"210",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",248,2
+"211",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",250,3
+"212",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",250,48
+"213",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",270,117
+"214",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",272,9
+"215",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",274,34
+"216",948890,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML / povidone 6 MG/ML Ophthalmic Solution",300,1
+"217",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",300,21106
+"218",46234012,NA,8587,0.5,8587,"mineral oil 0.5 ML/ML Oral Suspension [Kondremul Plain]",300,4
+"219",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",310,1
+"220",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",310.5,4
+"221",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",310.5,18
+"222",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",311,1
+"223",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",320,2
+"224",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",324,4
+"225",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",336,1
+"226",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",348,17
+"227",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",350,84
+"228",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",360,144
+"229",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",372,5
+"230",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",374,27
+"231",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",400,4518
+"232",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",414,3
+"233",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",414,4
+"234",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",420,1
+"235",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",424,10
+"236",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",426.99,4
+"237",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",448,2
+"238",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",450,40
+"239",42901858,NA,8587,0.05,8587,"benzyl alcohol 0.05 ML/ML Topical Lotion [Ulesfia]",454,228
+"240",1036706,NA,8587,0.6,8587,"benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray",464,3
+"241",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",472,18
+"242",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",474,57
+"243",955435,NA,8587,0.7,8587,"ethanol 0.7 ML/ML Topical Solution",480,1
+"244",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",480,10
+"245",46234012,NA,8587,0.5,8587,"mineral oil 0.5 ML/ML Oral Suspension [Kondremul Plain]",480,3
+"246",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",500,1643
+"247",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",524,2
+"248",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",540,5
+"249",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",548,6
+"250",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",550,21
+"251",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",574,2
+"252",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",600,1180
+"253",19123490,NA,8587,0.95,8587,"ethanol 0.95 ML/ML Topical Solution",600,1
+"254",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",630,2
+"255",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",650,2
+"256",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",674,1
+"257",42901858,NA,8587,0.05,8587,"benzyl alcohol 0.05 ML/ML Topical Lotion [Ulesfia]",681,8
+"258",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",696,1
+"259",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",700,360
+"260",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",720,3
+"261",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",748,1
+"262",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",800,282
+"263",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",840,5
+"264",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",850,1
+"265",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",900,227
+"266",46234012,NA,8587,0.5,8587,"mineral oil 0.5 ML/ML Oral Suspension [Kondremul Plain]",900,2
+"267",42901858,NA,8587,0.05,8587,"benzyl alcohol 0.05 ML/ML Topical Lotion [Ulesfia]",908,12
+"268",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",940,1
+"269",42901858,NA,8587,0.05,8587,"benzyl alcohol 0.05 ML/ML Topical Lotion [Ulesfia]",948,1
+"270",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1000,17
+"271",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1100,5
+"272",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1200,9
+"273",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1300,1
+"274",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1350,1
+"275",42901858,NA,8587,0.05,8587,"benzyl alcohol 0.05 ML/ML Topical Lotion [Ulesfia]",1362,11
+"276",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1400,2
+"277",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1500,2
+"278",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1600,3
+"279",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1700,3
+"280",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",1800,2
+"281",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",2000,1
+"282",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",10000,2
+"283",19011661,NA,8587,0.014,8587,"polyvinyl alcohol 0.014 ML/ML Ophthalmic Solution",NA,3
+"284",19028193,NA,8587,0.7,8587,"isopropyl alcohol 0.7 ML/ML Medicated Pad",NA,780
+"285",19080764,NA,8587,1,8587,"ethyl chloride 1 ML/ML Topical Spray",NA,1

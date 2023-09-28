@@ -1,0 +1,16 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",1,11
+"2",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",3.5,604
+"3",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",3.5,299
+"4",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",4,116
+"5",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",4,1
+"6",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",7,45
+"7",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",7,82
+"8",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",10,1
+"9",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",10.5,21
+"10",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",10.5,10
+"11",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",14,2
+"12",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",14,2
+"13",42801149,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment",17.5,1
+"14",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",17.5,1
+"15",42801150,NA,8576,0.00086,9551,"sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment [Muro 128]",120,4

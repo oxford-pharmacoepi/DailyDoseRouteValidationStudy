@@ -1,0 +1,1596 @@
+"","drug_concept_id","denominator_value","denominator_unit_concept_id","numerator_value","numerator_unit_concept_id","concept_name","quantity","n"
+"1",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",0,5
+"2",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",0,1
+"3",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",0,21
+"4",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",0,1
+"5",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",0,1
+"6",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",0,3
+"7",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",0,1
+"8",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",0,2
+"9",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",0,1
+"10",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",0,1
+"11",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",0,7
+"12",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",0,18
+"13",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",1,234
+"14",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",1,43
+"15",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",1,194
+"16",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",1,9581
+"17",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",1,243
+"18",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",1,198
+"19",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",1,178
+"20",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",1,2375
+"21",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",1,37
+"22",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",1,215
+"23",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",1,386
+"24",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",1,10
+"25",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",1,41
+"26",21062277,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",1,1
+"27",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",1,1870
+"28",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",1,9374
+"29",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",1,36
+"30",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",1,14
+"31",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",1,1253
+"32",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",1,1
+"33",21111375,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Tilofyl] by Tillomed",1,1
+"34",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",1,2
+"35",21111389,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Osmach] by Ratiopharm",1,1
+"36",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",1,4
+"37",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",1,107
+"38",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",1,6666
+"39",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",1,329
+"40",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",1,336
+"41",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",1,10
+"42",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",1,1
+"43",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",1,36
+"44",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",1,1
+"45",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",1,326
+"46",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",1,1
+"47",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",1,380
+"48",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",1,2196
+"49",21142405,NA,8505,0.007,8576,"Misoprostol 0.007 MG/HR Vaginal delivery system",1,1
+"50",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",1,1
+"51",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",1,53
+"52",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",1,1
+"53",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",1,1
+"54",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",1,1
+"55",40747753,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Panitaz] by Dr Reddy's",1,2
+"56",40747755,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Bupramyl] by Mylan",1,2
+"57",40747757,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Bunov] by Glenmark",1,2
+"58",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",1,959
+"59",40747761,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Sevodyne] by Aspire",1,1
+"60",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",1,1
+"61",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",1,60
+"62",40747852,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Panitaz] by Dr Reddy's",1,2
+"63",40747856,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bunov] by Glenmark",1,2
+"64",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",1,898
+"65",40747860,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Sevodyne] by Aspire",1,3
+"66",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",1,483
+"67",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",1,210
+"68",40747877,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Panitaz] by Dr Reddy's",1,6
+"69",40747881,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Bunov] by Glenmark",1,73
+"70",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",1,787
+"71",40747900,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Carlosafine] by Glenmark",1,4
+"72",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",1,3
+"73",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",1,30
+"74",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",1,46
+"75",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",1,11
+"76",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",1,74
+"77",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",1,49
+"78",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",1,709
+"79",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",1,8485
+"80",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",1,8172
+"81",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",1,439
+"82",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",1,504
+"83",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",1,1493
+"84",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",1,898
+"85",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",1,50
+"86",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",1,284
+"87",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",1,1083
+"88",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",1,4073
+"89",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",1,281
+"90",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",1,20
+"91",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",2,273
+"92",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",2,1
+"93",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",2,93
+"94",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",2,225
+"95",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",2,8582
+"96",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",2,778
+"97",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",2,280
+"98",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",2,923
+"99",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",2,1642
+"100",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",2,42
+"101",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",2,425
+"102",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",2,734
+"103",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",2,28
+"104",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",2,65
+"105",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",2,828
+"106",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",2,38986
+"107",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",2,554
+"108",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",2,23
+"109",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",2,148
+"110",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",2,1
+"111",21101527,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System by A A H",2,45
+"112",21111363,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmanil] by Zentiva",2,1
+"113",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",2,64
+"114",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",2,15
+"115",21111393,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Yemex] by Sandoz",2,2
+"116",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",2,178
+"117",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",2,3720
+"118",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",2,1
+"119",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",2,605
+"120",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",2,509
+"121",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",2,62
+"122",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",2,54
+"123",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",2,1
+"124",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",2,1225
+"125",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",2,1
+"126",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",2,912
+"127",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",2,2995
+"128",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",2,2
+"129",21150623,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",2,1
+"130",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",2,97
+"131",36068253,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System [Victanyl] by Accord",2,1
+"132",36068265,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System [Victanyl] by Accord",2,1
+"133",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",2,50
+"134",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",2,16
+"135",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",2,28
+"136",40747751,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Busiete] by TEVA",2,1
+"137",40747753,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Panitaz] by Dr Reddy's",2,4
+"138",40747755,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Bupramyl] by Mylan",2,1
+"139",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",2,351
+"140",40747761,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Sevodyne] by Aspire",2,2
+"141",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",2,2
+"142",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",2,3
+"143",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",2,193
+"144",40747854,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bupramyl] by Mylan",2,3
+"145",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",2,546
+"146",40747860,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Sevodyne] by Aspire",2,1
+"147",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",2,350
+"148",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",2,92
+"149",40747877,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Panitaz] by Dr Reddy's",2,3
+"150",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",2,179
+"151",40747885,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Sevodyne] by Aspire",2,1
+"152",40747902,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Turgeon] by TEVA",2,3
+"153",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",2,1
+"154",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",2,70
+"155",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",2,92
+"156",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",2,35
+"157",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",2,16
+"158",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",2,60
+"159",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",2,17
+"160",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",2,1598
+"161",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",2,25265
+"162",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",2,5966
+"163",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",2,891
+"164",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",2,1720
+"165",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",2,2975
+"166",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",2,736
+"167",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",2,610
+"168",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",2,681
+"169",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",2,1431
+"170",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",2,2293
+"171",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",2,90
+"172",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",2,43
+"173",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",3,661
+"174",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",3,138
+"175",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",3,322
+"176",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",3,423
+"177",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",3,469
+"178",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",3,307
+"179",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",3,97
+"180",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",3,117
+"181",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",3,417
+"182",21052449,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Osmanil] by Zentiva",3,1
+"183",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",3,398
+"184",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",3,132
+"185",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",3,6
+"186",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",3,28
+"187",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",3,69
+"188",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",3,757
+"189",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",3,159
+"190",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",3,5
+"191",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",3,259
+"192",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",3,4
+"193",21111363,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmanil] by Zentiva",3,1
+"194",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",3,6
+"195",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",3,67
+"196",21111393,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Yemex] by Sandoz",3,4
+"197",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",3,28
+"198",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",3,119
+"199",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",3,4
+"200",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",3,347
+"201",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",3,683
+"202",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",3,9
+"203",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",3,2
+"204",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",3,105
+"205",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",3,1358
+"206",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",3,1
+"207",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",3,1344
+"208",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",3,180
+"209",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",3,3
+"210",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",3,120
+"211",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",3,1
+"212",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",3,1
+"213",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",3,26
+"214",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",3,32
+"215",40747841,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Relevtec] by Sandoz",3,1
+"216",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",3,71
+"217",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",3,26
+"218",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",3,15
+"219",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",3,13
+"220",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",3,114
+"221",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",3,66
+"222",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",3,17
+"223",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",3,159
+"224",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",3,59
+"225",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",3,1726
+"226",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",3,570
+"227",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",3,300
+"228",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",3,1155
+"229",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",3,127
+"230",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",3,3389
+"231",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",3,83
+"232",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",3,158
+"233",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",3,915
+"234",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",3,1796
+"235",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",3,94
+"236",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",3,9
+"237",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",3,136
+"238",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",4,292
+"239",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",4,1
+"240",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",4,152
+"241",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",4,123
+"242",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",4,292238
+"243",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",4,282
+"244",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",4,274
+"245",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",4,11798
+"246",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",4,101435
+"247",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",4,25
+"248",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",4,407
+"249",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",4,4824
+"250",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",4,8
+"251",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",4,19
+"252",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",4,62446
+"253",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",4,270641
+"254",21073609,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Waymade",4,46
+"255",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",4,8023
+"256",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",4,41
+"257",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",4,83
+"258",21093065,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Waymade",4,3
+"259",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",4,4
+"260",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",4,7
+"261",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",4,8889
+"262",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",4,165094
+"263",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",4,343
+"264",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",4,490
+"265",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",4,12
+"266",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",4,101
+"267",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",4,6
+"268",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",4,375
+"269",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",4,1
+"270",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",4,471
+"271",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",4,105389
+"272",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",4,3
+"273",21152001,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Waymade",4,2
+"274",21152277,NA,8505,0.007,8576,"Misoprostol 0.007 MG/HR Vaginal delivery system [Mysodelle] by Ferring",4,1
+"275",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",4,98
+"276",36068247,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System [Victanyl] by Accord",4,1
+"277",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",4,75
+"278",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",4,114
+"279",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",4,305
+"280",40747751,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Busiete] by TEVA",4,13
+"281",40747753,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Panitaz] by Dr Reddy's",4,212
+"282",40747755,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Bupramyl] by Mylan",4,96
+"283",40747757,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Bunov] by Glenmark",4,398
+"284",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",4,25500
+"285",40747761,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Sevodyne] by Aspire",4,444
+"286",40747802,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Sigma",4,3
+"287",40747803,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Buplast] by Mylan",4,21
+"288",40747805,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Carlosafine] by Glenmark",4,1
+"289",40747807,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Turgeon] by TEVA",4,5
+"290",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",4,250
+"291",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",4,300
+"292",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",4,99
+"293",40747841,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Relevtec] by Sandoz",4,24
+"294",40747850,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Busiete] by TEVA",4,4
+"295",40747852,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Panitaz] by Dr Reddy's",4,94
+"296",40747854,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bupramyl] by Mylan",4,72
+"297",40747856,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bunov] by Glenmark",4,413
+"298",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",4,25092
+"299",40747860,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Sevodyne] by Aspire",4,529
+"300",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",4,24805
+"301",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",4,7746
+"302",40747875,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Busiete] by TEVA",4,6
+"303",40747877,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Panitaz] by Dr Reddy's",4,144
+"304",40747879,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Bupramyl] by Mylan",4,11
+"305",40747881,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Bunov] by Glenmark",4,253
+"306",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",4,14433
+"307",40747885,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Sevodyne] by Aspire",4,270
+"308",40747894,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Buplast] by Mylan",4,7
+"309",40747902,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Turgeon] by TEVA",4,4
+"310",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",4,120
+"311",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",4,98
+"312",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",4,88
+"313",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",4,24
+"314",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",4,11
+"315",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",4,70
+"316",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",4,42
+"317",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",4,1208
+"318",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",4,171854
+"319",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",4,190322
+"320",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",4,559
+"321",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",4,15729
+"322",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",4,1819
+"323",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",4,6628
+"324",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",4,7826
+"325",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",4,562
+"326",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",4,813
+"327",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",4,109566
+"328",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",4,5641
+"329",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",4,48
+"330",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",5,20103
+"331",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",5,70
+"332",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",5,9630
+"333",21023014,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Osmanil] by Zentiva",5,4
+"334",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",5,12801
+"335",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",5,687
+"336",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",5,7192
+"337",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",5,19696
+"338",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",5,7676
+"339",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",5,106
+"340",21042681,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Osmach] by TEVA",5,10
+"341",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",5,4290
+"342",21042699,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mylafent] by Mylan",5,13
+"343",21052449,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Osmanil] by Zentiva",5,39
+"344",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",5,13417
+"345",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",5,1596
+"346",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",5,922
+"347",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",5,1685
+"348",21062277,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",5,16
+"349",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",5,55
+"350",21072171,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mylafent] by Mylan",5,2
+"351",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",5,901
+"352",21081877,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System by A A H",5,4
+"353",21081890,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Yemex] by Sandoz",5,2
+"354",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",5,2980
+"355",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",5,1565
+"356",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",5,9271
+"357",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",5,2
+"358",21101527,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System by A A H",5,3
+"359",21101541,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Osmanil] by Zentiva",5,25
+"360",21111363,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmanil] by Zentiva",5,34
+"361",21111375,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Tilofyl] by Tillomed",5,82
+"362",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",5,544
+"363",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",5,463
+"364",21111393,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Yemex] by Sandoz",5,5
+"365",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",5,10
+"366",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",5,383
+"367",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",5,44
+"368",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",5,24765
+"369",21130818,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Osmach] by TEVA",5,2
+"370",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",5,32861
+"371",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",5,3637
+"372",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",5,35
+"373",21130839,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Osmanil] by Zentiva",5,10
+"374",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",5,6513
+"375",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",5,39
+"376",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",5,36354
+"377",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",5,13
+"378",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",5,41722
+"379",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",5,192
+"380",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",5,38
+"381",21150618,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System by A A H",5,2
+"382",21150623,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",5,1
+"383",21160544,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmach] by TEVA",5,1
+"384",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",5,8681
+"385",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",5,22
+"386",21170337,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mylafent] by Mylan",5,8
+"387",36068247,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System [Victanyl] by Accord",5,38
+"388",36068253,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System [Victanyl] by Accord",5,7
+"389",36068259,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System [Victanyl] by Accord",5,77
+"390",36068263,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System [Matrifen] by CST",5,1
+"391",36068265,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System [Victanyl] by Accord",5,64
+"392",36068269,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System [Matrifen] by CST",5,1
+"393",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",5,25
+"394",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",5,22
+"395",40747761,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Sevodyne] by Aspire",5,1
+"396",40747802,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Sigma",5,3
+"397",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",5,1
+"398",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",5,1
+"399",40747852,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Panitaz] by Dr Reddy's",5,1
+"400",40747856,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bunov] by Glenmark",5,4
+"401",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",5,31
+"402",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",5,48
+"403",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",5,2
+"404",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",5,7
+"405",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",5,6472
+"406",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",5,1488
+"407",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",5,1417
+"408",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",5,5684
+"409",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",5,2885
+"410",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",5,76922
+"411",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",5,762
+"412",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",5,600
+"413",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",5,28982
+"414",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",5,7354
+"415",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",5,116937
+"416",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",5,2132
+"417",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",5,2987
+"418",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",5,32620
+"419",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",5,69221
+"420",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",5,191
+"421",43277520,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System by Sandoz",5,1
+"422",43282809,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System by Sandoz",5,3
+"423",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",5,41
+"424",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",5,2789
+"425",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",6,34
+"426",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",6,34
+"427",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",6,182
+"428",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",6,592
+"429",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",6,386
+"430",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",6,138
+"431",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",6,252
+"432",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",6,105
+"433",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",6,5
+"434",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",6,127
+"435",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",6,87
+"436",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",6,8
+"437",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",6,9
+"438",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",6,82
+"439",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",6,1115
+"440",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",6,79
+"441",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",6,5
+"442",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",6,19
+"443",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",6,4
+"444",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",6,1
+"445",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",6,14
+"446",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",6,426
+"447",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",6,124
+"448",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",6,238
+"449",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",6,19
+"450",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",6,11
+"451",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",6,172
+"452",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",6,7
+"453",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",6,182
+"454",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",6,208
+"455",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",6,1
+"456",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",6,64
+"457",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",6,1
+"458",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",6,1
+"459",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",6,17
+"460",40747852,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Panitaz] by Dr Reddy's",6,2
+"461",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",6,50
+"462",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",6,17
+"463",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",6,13
+"464",40747877,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Panitaz] by Dr Reddy's",6,27
+"465",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",6,6
+"466",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",6,7
+"467",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",6,21
+"468",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",6,13
+"469",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",6,5
+"470",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",6,45
+"471",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",6,37
+"472",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",6,478
+"473",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",6,1060
+"474",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",6,449
+"475",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",6,381
+"476",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",6,232
+"477",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",6,1083
+"478",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",6,39
+"479",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",6,309
+"480",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",6,239
+"481",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",6,486
+"482",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",6,183
+"483",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",6,12
+"484",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",6,10
+"485",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",7,36
+"486",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",7,24
+"487",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",7,48
+"488",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",7,109
+"489",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",7,9
+"490",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",7,44
+"491",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",7,894
+"492",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",7,9
+"493",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",7,1
+"494",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",7,171
+"495",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",7,610
+"496",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",7,1
+"497",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",7,3
+"498",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",7,9
+"499",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",7,84
+"500",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",7,588
+"501",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",7,4
+"502",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",7,14
+"503",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",7,1
+"504",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",7,2
+"505",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",7,53
+"506",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",7,3
+"507",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",7,87
+"508",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",7,93
+"509",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",7,3
+"510",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",7,24
+"511",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",7,158
+"512",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",7,110
+"513",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",7,18
+"514",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",7,9
+"515",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",7,1
+"516",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",7,54
+"517",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",7,5
+"518",40747803,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Buplast] by Mylan",7,1
+"519",40747807,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Turgeon] by TEVA",7,2
+"520",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",7,223
+"521",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",7,36
+"522",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",7,34
+"523",40747841,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Relevtec] by Sandoz",7,30
+"524",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",7,3
+"525",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",7,4
+"526",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",7,9
+"527",40747902,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Turgeon] by TEVA",7,4
+"528",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",7,60
+"529",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",7,4
+"530",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",7,25
+"531",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",7,3
+"532",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",7,1
+"533",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",7,9
+"534",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",7,28
+"535",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",7,271
+"536",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",7,94
+"537",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",7,81
+"538",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",7,192
+"539",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",7,1483
+"540",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",7,462
+"541",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",7,809
+"542",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",7,877
+"543",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",7,182
+"544",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",7,198
+"545",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",7,29
+"546",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",7,2
+"547",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",7,9
+"548",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",8,796
+"549",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",8,1
+"550",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",8,329
+"551",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",8,641
+"552",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",8,20416
+"553",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",8,240
+"554",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",8,497
+"555",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",8,21106
+"556",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",8,3992
+"557",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",8,13
+"558",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",8,571
+"559",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",8,13456
+"560",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",8,74
+"561",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",8,14
+"562",21062277,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",8,5
+"563",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",8,4648
+"564",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",8,16989
+"565",21073593,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System by A A H",8,4
+"566",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",8,16211
+"567",21083308,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System by A A H",8,1
+"568",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",8,74
+"569",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",8,284
+"570",21093069,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Lexon",8,50
+"571",21111375,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Tilofyl] by Tillomed",8,3
+"572",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",8,4
+"573",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",8,6
+"574",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",8,542
+"575",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",8,18399
+"576",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",8,763
+"577",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",8,819
+"578",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",8,43
+"579",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",8,215
+"580",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",8,5
+"581",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",8,997
+"582",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",8,4
+"583",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",8,1070
+"584",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",8,3393
+"585",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",8,58
+"586",21150623,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",8,1
+"587",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",8,192
+"588",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",8,273
+"589",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",8,325
+"590",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",8,603
+"591",40747753,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Panitaz] by Dr Reddy's",8,30
+"592",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",8,402
+"593",40747761,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Sevodyne] by Aspire",8,21
+"594",40747803,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Buplast] by Mylan",8,21
+"595",40747805,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Carlosafine] by Glenmark",8,2
+"596",40747807,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Turgeon] by TEVA",8,32
+"597",40747809,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Prenotrix] by Genesis",8,1
+"598",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",8,648
+"599",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",8,283
+"600",40747835,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Turgeon] by TEVA",8,6
+"601",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",8,374
+"602",40747841,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Relevtec] by Sandoz",8,199
+"603",40747852,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Panitaz] by Dr Reddy's",8,16
+"604",40747854,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bupramyl] by Mylan",8,5
+"605",40747856,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bunov] by Glenmark",8,2
+"606",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",8,516
+"607",40747860,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Sevodyne] by Aspire",8,29
+"608",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",8,981
+"609",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",8,245
+"610",40747877,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Panitaz] by Dr Reddy's",8,1
+"611",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",8,832
+"612",40747885,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Sevodyne] by Aspire",8,10
+"613",40747894,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Buplast] by Mylan",8,6
+"614",40747904,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Prenotrix] by Genesis",8,1
+"615",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",8,492
+"616",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",8,176
+"617",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",8,107
+"618",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",8,9
+"619",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",8,2
+"620",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",8,150
+"621",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",8,83
+"622",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",8,1966
+"623",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",8,12145
+"624",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",8,15347
+"625",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",8,1174
+"626",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",8,21355
+"627",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",8,4154
+"628",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",8,12641
+"629",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",8,13579
+"630",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",8,1182
+"631",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",8,3075
+"632",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",8,12688
+"633",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",8,472
+"634",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",8,39
+"635",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",9,175
+"636",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",9,44
+"637",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",9,56
+"638",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",9,7
+"639",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",9,97
+"640",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",9,160
+"641",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",9,41
+"642",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",9,7
+"643",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",9,144
+"644",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",9,22
+"645",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",9,16
+"646",21062277,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",9,9
+"647",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",9,11
+"648",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",9,81
+"649",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",9,22
+"650",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",9,91
+"651",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",9,1
+"652",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",9,11
+"653",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",9,96
+"654",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",9,174
+"655",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",9,18
+"656",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",9,86
+"657",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",9,341
+"658",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",9,1
+"659",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",9,357
+"660",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",9,2
+"661",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",9,86
+"662",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",9,9
+"663",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",9,3
+"664",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",9,1
+"665",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",9,124
+"666",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",9,6
+"667",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",9,13
+"668",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",9,55
+"669",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",9,7
+"670",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",9,535
+"671",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",9,2
+"672",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",9,3
+"673",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",9,126
+"674",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",9,12
+"675",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",9,612
+"676",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",9,145
+"677",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",9,22
+"678",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",9,270
+"679",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",9,367
+"680",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",9,37
+"681",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",10,44785
+"682",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",10,277
+"683",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",10,20847
+"684",21023014,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Osmanil] by Zentiva",10,19
+"685",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",10,21994
+"686",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",10,208
+"687",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",10,20838
+"688",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",10,27222
+"689",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",10,6329
+"690",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",10,26
+"691",21042681,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Osmach] by TEVA",10,6
+"692",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",10,6112
+"693",21042699,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mylafent] by Mylan",10,5
+"694",21052449,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Osmanil] by Zentiva",10,55
+"695",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",10,27179
+"696",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",10,4851
+"697",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",10,767
+"698",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",10,1041
+"699",21062277,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",10,83
+"700",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",10,6
+"701",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",10,260
+"702",21081890,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Yemex] by Sandoz",10,1
+"703",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",10,5260
+"704",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",10,5603
+"705",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",10,18985
+"706",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",10,7
+"707",21101527,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System by A A H",10,7
+"708",21101541,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Osmanil] by Zentiva",10,57
+"709",21111363,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmanil] by Zentiva",10,92
+"710",21111375,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Tilofyl] by Tillomed",10,23
+"711",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",10,407
+"712",21111389,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Osmach] by Ratiopharm",10,39
+"713",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",10,301
+"714",21111393,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Yemex] by Sandoz",10,107
+"715",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",10,52
+"716",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",10,5
+"717",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",10,42401
+"718",21130818,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Osmach] by TEVA",10,7
+"719",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",10,51441
+"720",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",10,5790
+"721",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",10,11
+"722",21130835,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mylafent] by Mylan",10,2
+"723",21130839,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Osmanil] by Zentiva",10,30
+"724",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",10,12773
+"725",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",10,87
+"726",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",10,77576
+"727",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",10,81
+"728",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",10,66219
+"729",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",10,23
+"730",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",10,121
+"731",21150618,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System by A A H",10,21
+"732",21160544,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmach] by TEVA",10,9
+"733",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",10,14136
+"734",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",10,45
+"735",36068247,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System [Victanyl] by Accord",10,14
+"736",36068253,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System [Victanyl] by Accord",10,22
+"737",36068259,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System [Victanyl] by Accord",10,5
+"738",36068265,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System [Victanyl] by Accord",10,187
+"739",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",10,104
+"740",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",10,134
+"741",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",10,165
+"742",40747755,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Bupramyl] by Mylan",10,1
+"743",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",10,5
+"744",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",10,9
+"745",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",10,19
+"746",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",10,106
+"747",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",10,31
+"748",40747904,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Prenotrix] by Genesis",10,9
+"749",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",10,67
+"750",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",10,13
+"751",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",10,12095
+"752",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",10,3819
+"753",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",10,3282
+"754",40752839,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Opiodur] by RX Farma",10,1
+"755",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",10,14818
+"756",40752852,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Opiodur] by RX Farma",10,7
+"757",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",10,8742
+"758",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",10,83390
+"759",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",10,236
+"760",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",10,147
+"761",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",10,51924
+"762",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",10,8868
+"763",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",10,144627
+"764",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",10,5876
+"765",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",10,6356
+"766",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",10,46707
+"767",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",10,97560
+"768",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",10,221
+"769",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",10,7044
+"770",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",11,1
+"771",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",11,2
+"772",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",11,5
+"773",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",11,1
+"774",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",11,1
+"775",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",11,1
+"776",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",11,1
+"777",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",11,1
+"778",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",11,6
+"779",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",11,2
+"780",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",11,4
+"781",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",11,25
+"782",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",11,1
+"783",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",11,3
+"784",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",11,17
+"785",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",11,75
+"786",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",11,5
+"787",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",11,2
+"788",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",11,89
+"789",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",11,2
+"790",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",11,50
+"791",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",11,13
+"792",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",12,95
+"793",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",12,19
+"794",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",12,123
+"795",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",12,646
+"796",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",12,159
+"797",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",12,218
+"798",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",12,1442
+"799",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",12,43
+"800",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",12,35
+"801",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",12,693
+"802",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",12,1402
+"803",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",12,1
+"804",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",12,19
+"805",21062277,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Mawdsley-Brooks",12,1
+"806",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",12,82
+"807",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",12,707
+"808",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",12,1378
+"809",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",12,28
+"810",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",12,153
+"811",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",12,1
+"812",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",12,1
+"813",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",12,2
+"814",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",12,518
+"815",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",12,318
+"816",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",12,249
+"817",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",12,6
+"818",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",12,37
+"819",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",12,576
+"820",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",12,402
+"821",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",12,84
+"822",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",12,5
+"823",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",12,68
+"824",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",12,78
+"825",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",12,94
+"826",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",12,135
+"827",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",12,21
+"828",40747761,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Sevodyne] by Aspire",12,1
+"829",40747805,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Carlosafine] by Glenmark",12,1
+"830",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",12,24
+"831",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",12,4
+"832",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",12,13
+"833",40747841,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Relevtec] by Sandoz",12,13
+"834",40747854,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bupramyl] by Mylan",12,1
+"835",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",12,31
+"836",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",12,4
+"837",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",12,1
+"838",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",12,8
+"839",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",12,46
+"840",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",12,1
+"841",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",12,52
+"842",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",12,8
+"843",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",12,28
+"844",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",12,80
+"845",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",12,2
+"846",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",12,783
+"847",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",12,582
+"848",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",12,451
+"849",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",12,942
+"850",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",12,1383
+"851",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",12,1097
+"852",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",12,1233
+"853",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",12,1191
+"854",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",12,345
+"855",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",12,789
+"856",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",12,290
+"857",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",12,3
+"858",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",12,35
+"859",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",13,8
+"860",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",13,1
+"861",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",13,6
+"862",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",13,4
+"863",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",13,7
+"864",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",13,1
+"865",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",13,5
+"866",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",13,30
+"867",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",13,1
+"868",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",13,1
+"869",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",13,1
+"870",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",13,1
+"871",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",13,11
+"872",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",13,10
+"873",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",13,7
+"874",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",13,3
+"875",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",13,1
+"876",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",13,1
+"877",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",13,21
+"878",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",13,36
+"879",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",13,1
+"880",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",13,19
+"881",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",13,4
+"882",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",13,4
+"883",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",13,11
+"884",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",14,62
+"885",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",14,82
+"886",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",14,66
+"887",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",14,21
+"888",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",14,110
+"889",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",14,69
+"890",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",14,77
+"891",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",14,1
+"892",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",14,18
+"893",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",14,28
+"894",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",14,74
+"895",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",14,8
+"896",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",14,3
+"897",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",14,14
+"898",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",14,89
+"899",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",14,117
+"900",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",14,23
+"901",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",14,7
+"902",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",14,1
+"903",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",14,113
+"904",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",14,321
+"905",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",14,74
+"906",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",14,117
+"907",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",14,58
+"908",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",14,2
+"909",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",14,35
+"910",40747811,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",14,11
+"911",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",14,12
+"912",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",14,1
+"913",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",14,2
+"914",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",14,219
+"915",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",14,25
+"916",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",14,33
+"917",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",14,156
+"918",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",14,185
+"919",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",14,253
+"920",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",14,73
+"921",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",14,212
+"922",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",14,267
+"923",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",14,139
+"924",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",14,4
+"925",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",14,64
+"926",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",15,913
+"927",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",15,1
+"928",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",15,390
+"929",21023014,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Osmanil] by Zentiva",15,13
+"930",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",15,1302
+"931",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",15,6
+"932",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",15,979
+"933",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",15,1213
+"934",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",15,278
+"935",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",15,129
+"936",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",15,2858
+"937",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",15,43
+"938",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",15,25
+"939",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",15,84
+"940",21072178,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mylafent] by Mylan",15,7
+"941",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",15,14
+"942",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",15,157
+"943",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",15,42
+"944",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",15,822
+"945",21111363,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Osmanil] by Zentiva",15,3
+"946",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",15,10
+"947",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",15,52
+"948",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",15,1
+"949",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",15,1
+"950",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",15,2599
+"951",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",15,2603
+"952",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",15,122
+"953",21130839,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Osmanil] by Zentiva",15,3
+"954",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",15,206
+"955",21140751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Waymade",15,6
+"956",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",15,1730
+"957",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",15,1668
+"958",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",15,2
+"959",21150598,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Waymade",15,6
+"960",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",15,265
+"961",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",15,2
+"962",21170337,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mylafent] by Mylan",15,1
+"963",36068247,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System [Victanyl] by Accord",15,16
+"964",36068253,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System [Victanyl] by Accord",15,3
+"965",36068265,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System [Victanyl] by Accord",15,4
+"966",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",15,306
+"967",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",15,161
+"968",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",15,86
+"969",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",15,397
+"970",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",15,156
+"971",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",15,2768
+"972",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",15,2
+"973",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",15,2
+"974",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",15,3253
+"975",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",15,244
+"976",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",15,4954
+"977",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",15,164
+"978",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",15,376
+"979",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",15,2266
+"980",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",15,4095
+"981",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",15,1
+"982",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",15,186
+"983",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",16,17
+"984",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",16,7
+"985",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",16,45
+"986",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",16,268
+"987",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",16,135
+"988",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",16,12
+"989",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",16,734
+"990",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",16,17
+"991",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",16,40
+"992",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",16,181
+"993",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",16,1454
+"994",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",16,2
+"995",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",16,1
+"996",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",16,95
+"997",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",16,257
+"998",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",16,923
+"999",21083308,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System by A A H",16,3
+"1000",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",16,7
+"1001",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",16,18
+"1002",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",16,392
+"1003",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",16,46
+"1004",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",16,33
+"1005",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",16,78
+"1006",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",16,76
+"1007",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",16,33
+"1008",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",16,86
+"1009",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",16,52
+"1010",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",16,71
+"1011",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",16,3
+"1012",40747807,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Turgeon] by TEVA",16,1
+"1013",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",16,1
+"1014",40747839,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",16,18
+"1015",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",16,1
+"1016",40747870,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Reletrans] by Sandoz",16,1
+"1017",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",16,1
+"1018",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",16,54
+"1019",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",16,2
+"1020",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",16,3
+"1021",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",16,29
+"1022",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",16,152
+"1023",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",16,102
+"1024",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",16,134
+"1025",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",16,215
+"1026",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",16,880
+"1027",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",16,246
+"1028",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",16,1367
+"1029",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",16,1025
+"1030",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",16,81
+"1031",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",16,236
+"1032",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",16,473
+"1033",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",16,14
+"1034",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",17,3
+"1035",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",17,2
+"1036",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",17,3
+"1037",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",17,1
+"1038",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",17,1
+"1039",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",17,2
+"1040",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",17,1
+"1041",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",17,1
+"1042",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",17,1
+"1043",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",18,2
+"1044",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",18,4
+"1045",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",18,12
+"1046",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",18,7
+"1047",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",18,14
+"1048",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",18,1
+"1049",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",18,28
+"1050",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",18,1
+"1051",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",18,8
+"1052",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",18,4
+"1053",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",18,1
+"1054",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",18,1
+"1055",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",18,11
+"1056",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",18,12
+"1057",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",18,13
+"1058",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",18,12
+"1059",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",18,4
+"1060",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",18,141
+"1061",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",18,3
+"1062",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",18,5
+"1063",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",18,18
+"1064",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",18,57
+"1065",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",18,14
+"1066",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",18,50
+"1067",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",18,88
+"1068",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",18,27
+"1069",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",19,48
+"1070",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",19,6
+"1071",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",19,32
+"1072",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",19,4
+"1073",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",19,18
+"1074",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",19,3
+"1075",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",19,13
+"1076",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",19,14
+"1077",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",19,11
+"1078",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",19,9
+"1079",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",19,35
+"1080",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",19,4
+"1081",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",19,14
+"1082",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",19,24
+"1083",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",19,15
+"1084",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",19,4
+"1085",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",19,2
+"1086",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",20,1652
+"1087",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",20,8
+"1088",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",20,389
+"1089",21023014,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Osmanil] by Zentiva",20,1
+"1090",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",20,1872
+"1091",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",20,33
+"1092",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",20,2765
+"1093",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",20,1119
+"1094",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",20,276
+"1095",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",20,495
+"1096",21052449,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Osmanil] by Zentiva",20,5
+"1097",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",20,4150
+"1098",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",20,891
+"1099",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",20,81
+"1100",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",20,65
+"1101",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",20,8
+"1102",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",20,11
+"1103",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",20,569
+"1104",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",20,45
+"1105",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",20,658
+"1106",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",20,43
+"1107",21101541,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Osmanil] by Zentiva",20,11
+"1108",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",20,32
+"1109",21111389,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Osmach] by Ratiopharm",20,1
+"1110",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",20,34
+"1111",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",20,5
+"1112",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",20,5
+"1113",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",20,2311
+"1114",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",20,2625
+"1115",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",20,168
+"1116",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",20,1
+"1117",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",20,322
+"1118",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",20,2661
+"1119",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",20,48
+"1120",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",20,1469
+"1121",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",20,1
+"1122",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",20,295
+"1123",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",20,11
+"1124",36068247,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System [Victanyl] by Accord",20,45
+"1125",36068494,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System [Hapoctasin] by Accord",20,5
+"1126",36068608,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System [Hapoctasin] by Accord",20,4
+"1127",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",20,19
+"1128",40747813,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Relevtec] by Sandoz",20,1
+"1129",40747856,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Bunov] by Glenmark",20,1
+"1130",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",20,1
+"1131",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",20,1
+"1132",40747906,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Bupeaze] by Dr Reddy's",20,9
+"1133",40747908,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Relevtec] by Sandoz",20,14
+"1134",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",20,266
+"1135",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",20,229
+"1136",40752835,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fencino] by Ethypharm",20,203
+"1137",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",20,392
+"1138",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",20,366
+"1139",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",20,3476
+"1140",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",20,10
+"1141",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",20,24
+"1142",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",20,6856
+"1143",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",20,812
+"1144",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",20,7729
+"1145",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",20,919
+"1146",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",20,708
+"1147",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",20,2957
+"1148",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",20,4829
+"1149",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",20,54
+"1150",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",20,263
+"1151",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",21,3
+"1152",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",21,1
+"1153",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",21,7
+"1154",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",21,1
+"1155",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",21,14
+"1156",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",21,2
+"1157",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",21,1
+"1158",21111378,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",21,3
+"1159",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",21,3
+"1160",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",21,1
+"1161",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",21,8
+"1162",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",21,16
+"1163",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",21,3
+"1164",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",21,2
+"1165",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",21,7
+"1166",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",21,35
+"1167",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",21,13
+"1168",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",21,14
+"1169",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",21,14
+"1170",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",21,21
+"1171",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",22,7
+"1172",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",22,2
+"1173",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",22,1
+"1174",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",22,1
+"1175",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",23,103
+"1176",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",23,103
+"1177",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",23,3
+"1178",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",23,1
+"1179",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",23,1
+"1180",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",24,1
+"1181",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",24,8
+"1182",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",24,5
+"1183",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",24,3
+"1184",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",24,65
+"1185",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",24,3
+"1186",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",24,109
+"1187",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",24,171
+"1188",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",24,2
+"1189",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",24,44
+"1190",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",24,64
+"1191",21112812,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [BuTrans] by Napp",24,2
+"1192",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",24,14
+"1193",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",24,16
+"1194",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",24,20
+"1195",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",24,5
+"1196",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",24,47
+"1197",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",24,13
+"1198",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",24,34
+"1199",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",24,104
+"1200",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",24,84
+"1201",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",24,57
+"1202",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",24,20
+"1203",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",24,96
+"1204",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",24,37
+"1205",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",24,80
+"1206",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",24,25
+"1207",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",25,27
+"1208",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",25,1
+"1209",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",25,16
+"1210",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",25,60
+"1211",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",25,70
+"1212",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",25,1
+"1213",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",25,1
+"1214",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",25,131
+"1215",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",25,12
+"1216",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",25,1
+"1217",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",25,12
+"1218",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",25,81
+"1219",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",25,167
+"1220",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",25,59
+"1221",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",25,55
+"1222",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",25,5
+"1223",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",25,1
+"1224",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",25,1
+"1225",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",25,4
+"1226",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",25,5
+"1227",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",25,60
+"1228",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",25,1
+"1229",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",25,232
+"1230",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",25,7
+"1231",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",25,190
+"1232",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",25,1
+"1233",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",25,37
+"1234",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",25,69
+"1235",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",25,3
+"1236",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",26,1
+"1237",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",26,1
+"1238",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",26,13
+"1239",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",26,2
+"1240",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",27,5
+"1241",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",27,3
+"1242",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",28,2
+"1243",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",28,10
+"1244",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",28,47
+"1245",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",28,7
+"1246",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",28,7
+"1247",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",28,3
+"1248",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",28,30
+"1249",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",28,10
+"1250",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",28,3
+"1251",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",28,3
+"1252",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",28,2
+"1253",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",28,1
+"1254",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",28,8
+"1255",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",28,4
+"1256",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",28,2
+"1257",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",28,44
+"1258",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",28,9
+"1259",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",28,1
+"1260",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",28,1
+"1261",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",28,9
+"1262",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",28,4
+"1263",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",28,1
+"1264",40747759,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Reletrans] by Sandoz",28,1
+"1265",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",28,1
+"1266",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",28,16
+"1267",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",28,1
+"1268",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",28,67
+"1269",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",28,13
+"1270",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",28,13
+"1271",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",28,98
+"1272",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",28,18
+"1273",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",28,92
+"1274",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",28,47
+"1275",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",28,3
+"1276",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",28,25
+"1277",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",28,130
+"1278",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",28,1
+"1279",43560032,NA,8505,0.015,8576,"buprenorphine 0.015 MG/HR Transdermal System",28,1
+"1280",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",28,2
+"1281",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",29,2
+"1282",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",29,2
+"1283",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",30,274
+"1284",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",30,21
+"1285",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",30,103
+"1286",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",30,178
+"1287",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",30,461
+"1288",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",30,227
+"1289",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",30,18
+"1290",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",30,61
+"1291",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",30,1183
+"1292",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",30,22
+"1293",21062260,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",30,7
+"1294",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",30,6
+"1295",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",30,1
+"1296",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",30,63
+"1297",21091627,NA,8505,0.0375,8576,"Fentanyl 0.0375 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",30,56
+"1298",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",30,17
+"1299",21091660,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Yemex] by Sandoz",30,3
+"1300",21111375,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Tilofyl] by Tillomed",30,43
+"1301",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",30,38
+"1302",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",30,7
+"1303",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",30,264
+"1304",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",30,333
+"1305",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",30,6
+"1306",21130839,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Osmanil] by Zentiva",30,1
+"1307",21140748,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",30,13
+"1308",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",30,211
+"1309",21140756,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Yemex] by Sandoz",30,2
+"1310",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",30,87
+"1311",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",30,40
+"1312",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",30,22
+"1313",36068247,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System [Victanyl] by Accord",30,15
+"1314",40752823,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Fencino] by Ethypharm",30,16
+"1315",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",30,64
+"1316",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",30,13
+"1317",40752853,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Fencino] by Ethypharm",30,28
+"1318",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",30,384
+"1319",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",30,6
+"1320",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",30,1350
+"1321",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",30,35
+"1322",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",30,1052
+"1323",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",30,17
+"1324",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",30,67
+"1325",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",30,293
+"1326",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",30,706
+"1327",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",30,3
+"1328",46221484,NA,8505,0.0375,8576,"fentanyl 0.0375 MG/HR Transdermal System",30,3
+"1329",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",32,24
+"1330",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",32,2
+"1331",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",32,3
+"1332",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",32,2
+"1333",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",32,46
+"1334",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",32,1
+"1335",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",32,7
+"1336",21111390,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",32,1
+"1337",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",32,3
+"1338",36068610,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System [Hapoctasin] by Accord",32,2
+"1339",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",32,1
+"1340",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",32,14
+"1341",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",32,13
+"1342",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",32,5
+"1343",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",32,2
+"1344",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",32,61
+"1345",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",32,77
+"1346",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",32,1
+"1347",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",33,3
+"1348",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",33,4
+"1349",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",34,27
+"1350",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",35,1
+"1351",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",35,5
+"1352",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",35,8
+"1353",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",35,6
+"1354",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",35,32
+"1355",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",35,25
+"1356",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",35,5
+"1357",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",35,2
+"1358",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",35,13
+"1359",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",35,1
+"1360",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",35,3
+"1361",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",36,1
+"1362",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",36,1
+"1363",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",36,1
+"1364",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",36,1
+"1365",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",36,1
+"1366",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",36,7
+"1367",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",36,8
+"1368",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",38,3
+"1369",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",38,24
+"1370",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",40,11
+"1371",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",40,17
+"1372",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",40,66
+"1373",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",40,75
+"1374",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",40,8
+"1375",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",40,1
+"1376",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",40,4
+"1377",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",40,101
+"1378",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",40,10
+"1379",21062270,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fentalis Reservoir] by Sandoz",40,2
+"1380",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",40,1
+"1381",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",40,16
+"1382",21091646,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Matrifen] by TEVA",40,2
+"1383",21121031,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Yemex] by Sandoz",40,21
+"1384",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",40,101
+"1385",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",40,122
+"1386",21130824,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",40,17
+"1387",21130833,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Tilofyl] by Tillomed",40,2
+"1388",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",40,7
+"1389",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",40,2
+"1390",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",40,3
+"1391",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",40,31
+"1392",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",40,12
+"1393",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",40,37
+"1394",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",40,1
+"1395",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",40,504
+"1396",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",40,5
+"1397",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",40,80
+"1398",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",40,61
+"1399",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",40,59
+"1400",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",40,151
+"1401",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",42,1
+"1402",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",42,2
+"1403",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",42,3
+"1404",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",42,2
+"1405",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",42,44
+"1406",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",42,1
+"1407",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",42,1
+"1408",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",42,2
+"1409",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",42,2
+"1410",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",42,5
+"1411",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",42,2
+"1412",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",42,1
+"1413",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",42,2
+"1414",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",43,2
+"1415",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",43,1
+"1416",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",43,1
+"1417",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",43,1
+"1418",40747858,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Reletrans] by Sandoz",43,1
+"1419",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",43,2
+"1420",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",43,4
+"1421",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",43,3
+"1422",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",44,1
+"1423",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",44,11
+"1424",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",44,1
+"1425",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",44,1
+"1426",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",44,1
+"1427",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",44,1
+"1428",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",45,15
+"1429",21032751,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Opiodur] by Pfizer",45,4
+"1430",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",45,1
+"1431",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",45,11
+"1432",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",45,80
+"1433",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",45,10
+"1434",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",45,1
+"1435",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",45,41
+"1436",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",45,2
+"1437",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",45,33
+"1438",42902864,NA,8505,0.07,8576,"buprenorphine 0.07 MG/HR Transdermal System",45,4
+"1439",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",45,9
+"1440",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",46,6
+"1441",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",46,2
+"1442",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",46,4
+"1443",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",46,4
+"1444",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",46,3
+"1445",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",46,2
+"1446",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",47,1
+"1447",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",48,3
+"1448",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",48,1
+"1449",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",48,3
+"1450",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",48,1
+"1451",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",48,2
+"1452",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",48,4
+"1453",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",48,2
+"1454",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",48,3
+"1455",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",50,1
+"1456",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",50,1
+"1457",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",50,61
+"1458",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",50,3
+"1459",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",50,10
+"1460",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",50,7
+"1461",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",50,3
+"1462",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",50,4
+"1463",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",50,1
+"1464",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",50,121
+"1465",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",50,27
+"1466",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",50,1
+"1467",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",50,10
+"1468",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",50,124
+"1469",42903345,NA,8505,0.02,8576,"buprenorphine 0.02 MG/HR Transdermal System",50,1
+"1470",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",51,1
+"1471",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",52,1
+"1472",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",53,1
+"1473",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",53,2
+"1474",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",54,1
+"1475",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",54,1
+"1476",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",54,1
+"1477",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",55,1
+"1478",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",55,38
+"1479",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",56,9
+"1480",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",56,4
+"1481",21034148,NA,8505,0.035,8576,"Buprenorphine 0.035 MG/HR Transdermal System [Transtec] by Napp",56,2
+"1482",21034159,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [Butec] by Qdem",56,1
+"1483",21042693,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",56,1
+"1484",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",56,1
+"1485",21083302,NA,8505,0.0525,8576,"Buprenorphine 0.0525 MG/HR Transdermal System [Transtec] by Napp",56,7
+"1486",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",56,1
+"1487",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",56,3
+"1488",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",56,4
+"1489",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",56,2
+"1490",40747868,NA,8505,0.015,8576,"Buprenorphine 0.015 MG/HR Transdermal System [Butec] by Qdem",56,1
+"1491",40747883,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Reletrans] by Sandoz",56,1
+"1492",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",56,1
+"1493",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",56,2
+"1494",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",56,2
+"1495",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",56,4
+"1496",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",56,19
+"1497",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",56,3
+"1498",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",56,21
+"1499",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",56,2
+"1500",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",56,2
+"1501",21023007,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",60,2
+"1502",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",60,27
+"1503",21032781,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Durogesic] by Janssen",60,2
+"1504",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",60,39
+"1505",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",60,36
+"1506",21112816,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [BuTrans] by Napp",60,4
+"1507",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",60,1
+"1508",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",60,7
+"1509",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",60,1
+"1510",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",60,1
+"1511",21160574,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Mezolar Matrix] by Sandoz",60,1
+"1512",40752827,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Fencino] by Ethypharm",60,1
+"1513",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",60,30
+"1514",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",60,144
+"1515",42902727,NA,8505,0.035,8576,"buprenorphine 0.035 MG/HR Transdermal System",60,1
+"1516",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",60,78
+"1517",42903006,NA,8505,0.0525,8576,"buprenorphine 0.0525 MG/HR Transdermal System",60,5
+"1518",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",60,20
+"1519",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",60,7
+"1520",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",63,1
+"1521",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",64,5
+"1522",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",64,1
+"1523",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",65,1
+"1524",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",66,1
+"1525",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",70,1
+"1526",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",72,1
+"1527",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",75,3
+"1528",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",75,1
+"1529",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",76,2
+"1530",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",80,2
+"1531",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",80,3
+"1532",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",80,57
+"1533",42902544,NA,8505,0.01,8576,"buprenorphine 0.01 MG/HR Transdermal System",80,2
+"1534",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",80,5
+"1535",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",80,1
+"1536",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",81,1
+"1537",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",83,1
+"1538",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",84,1
+"1539",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",84,3
+"1540",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",84,3
+"1541",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",84,21
+"1542",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",84,2
+"1543",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",85,1
+"1544",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",86,1
+"1545",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",86,2
+"1546",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",88,1
+"1547",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",88,1
+"1548",21023006,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Tilofyl] by Tillomed",90,6
+"1549",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",90,4
+"1550",21170336,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Tilofyl] by Tillomed",90,8
+"1551",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",90,2
+"1552",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",100,1
+"1553",21032778,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Matrifen] by TEVA",100,2
+"1554",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",100,3
+"1555",21053831,NA,8505,0.07,8576,"Buprenorphine 0.07 MG/HR Transdermal System [Transtec] by Napp",100,2
+"1556",40752840,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Fencino] by Ethypharm",100,1
+"1557",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",100,31
+"1558",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",100,6
+"1559",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",100,1
+"1560",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",100,4
+"1561",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",102,1
+"1562",21022994,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Matrifen] by TEVA",103,1
+"1563",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",103,1
+"1564",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",105,2
+"1565",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",105,3
+"1566",42903081,NA,8505,0.075,8576,"fentanyl 0.075 MG/HR Transdermal System",105,1
+"1567",21140755,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Matrifen] by TEVA",106,2
+"1568",21140777,NA,8505,0.012,8576,"Fentanyl 0.012 MG/HR Transdermal System [Matrifen] by TEVA",106,2
+"1569",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",112,1
+"1570",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",120,1
+"1571",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",120,1
+"1572",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",125,1
+"1573",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",168,1
+"1574",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",180,1
+"1575",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",210,1
+"1576",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",212,2
+"1577",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",212,1
+"1578",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",213,1
+"1579",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",224,1
+"1580",21024459,NA,8505,0.01,8576,"Buprenorphine 0.01 MG/HR Transdermal System [BuTrans] by Napp",280,1
+"1581",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",306,1
+"1582",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",306,1
+"1583",42902413,NA,8505,0.005,8576,"buprenorphine 0.005 MG/HR Transdermal System",410,1
+"1584",21063686,NA,8505,0.02,8576,"Buprenorphine 0.02 MG/HR Transdermal System [Butec] by Qdem",412,1
+"1585",21142198,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [Butec] by Qdem",412,1
+"1586",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",510,2
+"1587",21052468,NA,8505,0.1,8576,"Fentanyl 0.1 MG/HR Transdermal System [Durogesic] by Janssen",512,1
+"1588",42902404,NA,8505,0.012,8576,"fentanyl 0.012 MG/HR Transdermal System",512,1
+"1589",42902560,NA,8505,0.1,8576,"fentanyl 0.1 MG/HR Transdermal System",2020,1
+"1590",21073591,NA,8505,0.005,8576,"Buprenorphine 0.005 MG/HR Transdermal System [BuTrans] by Napp",4121,1
+"1591",21023018,NA,8505,0.075,8576,"Fentanyl 0.075 MG/HR Transdermal System [Durogesic] by Janssen",NA,2
+"1592",21121032,NA,8505,0.05,8576,"Fentanyl 0.05 MG/HR Transdermal System [Durogesic] by Janssen",NA,1
+"1593",21130821,NA,8505,0.025,8576,"Fentanyl 0.025 MG/HR Transdermal System [Durogesic] by Janssen",NA,1
+"1594",42902803,NA,8505,0.025,8576,"fentanyl 0.025 MG/HR Transdermal System",NA,2
+"1595",42903228,NA,8505,0.05,8576,"fentanyl 0.05 MG/HR Transdermal System",NA,19
