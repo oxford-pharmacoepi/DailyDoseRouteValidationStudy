@@ -3,14 +3,14 @@ dailyDosePatternCoverage <- function(cdm,
   # initial checks
   DrugUtilisation:::checkInputs(cdm = cdm)
 
-  # get concepts
-  concepts <- cdm[["concept_ancestor"]] %>%
-    dplyr::filter(ancestor_concept_id %in% .env$ingredientConceptId) %>%
-    dplyr::pull("descendant_concept_id")
-
   # get daily dosage
   dailyDose <- cdm[["drug_exposure"]] %>%
-    dplyr::filter(.data$drug_concept_id %in% .env$concepts) %>%
+    dplyr::inner_join(
+      cdm[["concept_ancestor"]] %>%
+        dplyr::filter(ancestor_concept_id %in% .env$ingredientConceptId) %>%
+        dplyr::select("drug_concept_id" = "descendant_concept_id"),
+      by = "drug_concept_id"
+    ) %>%
     dplyr::select(
       "drug_concept_id", "drug_exposure_start_date", "drug_exposure_end_date",
       "quantity"
@@ -27,6 +27,11 @@ dailyDosePatternCoverage <- function(cdm,
       by = "drug_concept_id"
     ) %>%
     CDMConnector::computeQuery() %>%
+    dplyr::mutate(formula_id = dplyr::if_else(
+      .data$formula_id %in% c(1, 2) & .data$days_exposed <= 0,
+      0,
+      .data$formula_id
+    )) %>%
     DrugUtilisation:::standardUnits() %>%
     DrugUtilisation:::applyFormula() %>%
     dplyr::select(
