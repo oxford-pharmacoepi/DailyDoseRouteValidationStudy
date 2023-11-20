@@ -28,7 +28,7 @@ dailyDosePatternCoverage <- function(cdm,
     ) %>%
     CDMConnector::computeQuery() %>%
     dplyr::mutate(formula_id = dplyr::if_else(
-      .data$formula_id %in% c(1, 2) & .data$days_exposed <= 0,
+      .data$days_exposed <= 0,
       0,
       .data$formula_id
     )) %>%
@@ -48,22 +48,11 @@ dailyDosePatternCoverage <- function(cdm,
 
   # summarise
   dailyDoseSummary <- dailyDose %>%
-    PatientProfiles::summariseResult(
-      group = list("ingredient_name"),
-      includeOverallGroup = FALSE,
-      strata = list("pattern_id", "route", c("route", "pattern_id")),
-      includeOverallStrata = TRUE,
-      variables = "daily_dose",
-      functions = c("missing")
-    ) %>%
-    dplyr::union_all(
-      dailyDose %>%
         PatientProfiles::summariseResult(
           group = list("ingredient_name"),
           includeOverallGroup = FALSE,
           strata = list(
-            "unit", c("unit", "pattern_id"), c("route", "unit", "pattern_id"),
-            c("unit", "route")
+            "unit", c("unit", "route"), c("unit","route","pattern_id")
           ),
           includeOverallStrata = TRUE,
           variables = "daily_dose",
@@ -72,7 +61,6 @@ dailyDosePatternCoverage <- function(cdm,
             "max"
           )
         )
-    )
 
   return(dailyDoseSummary)
 }
