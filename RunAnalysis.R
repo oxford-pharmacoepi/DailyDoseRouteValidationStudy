@@ -43,12 +43,9 @@ write.csv(
 info(logger, 'PATTERN FILE CREATED')
 
 # Pattern checks
-info(logger, 'DOING DENOMINATOR CHECK')
-source(here::here("denominator_check.R"))
+## we really only need the numerator check from IPCI
 info(logger, 'DOING NUMERATOR CHECK')
 source(here::here("numerator_check.R"))
-info(logger, 'DOING NEW CHECK')
-source(here::here("new_check.R"))
 info(logger, 'CHECKS DONE')
 
 # route ----
@@ -71,7 +68,7 @@ info(logger, 'ROUTE SUMMARISED')
 
 # coverage ----
 info(logger, 'DOSE COVERAGE')
-ingredients <- c(956874, 1106776, 1137529, 1301025, 1503297)
+ingredients <- c(956874, 1106776, 1137529, 1301025, 1503297,1154029)
 doseCoverage <- dailyDosePatternCoverage(cdm, ingredients)
 write.csv(
   x = doseCoverage,
