@@ -44,9 +44,15 @@ info(logger, 'PATTERN FILE CREATED')
 
 # Pattern checks
 ## we really only need the numerator check from IPCI
-info(logger, 'DOING NUMERATOR CHECK')
-source(here::here("numerator_check.R"))
-info(logger, 'CHECKS DONE')
+tryCatch({
+  info(logger, 'DOING NUMERATOR CHECK')
+  source(here::here("numerator_check.R"))
+  info(logger, 'CHECKS DONE')
+},
+error = function(err) {
+  info(logger, 'NUMERATOR CHECK FAILED')
+  return(NULL)
+})
 
 # route ----
 info(logger, 'SUMMARY ROUTE')
@@ -68,7 +74,7 @@ info(logger, 'ROUTE SUMMARISED')
 
 # coverage ----
 info(logger, 'DOSE COVERAGE')
-ingredients <- c(956874, 1106776, 1137529, 1301025, 1503297,1154029)
+ingredients <- c(956874, 1106776, 1137529, 1301025, 1503297, 1154029)
 doseCoverage <- dailyDosePatternCoverage(cdm, ingredients)
 write.csv(
   x = doseCoverage,

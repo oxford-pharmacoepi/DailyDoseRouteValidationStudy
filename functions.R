@@ -27,17 +27,18 @@ dailyDosePatternCoverage <- function(cdm,
       by = "drug_concept_id"
     ) %>%
     CDMConnector::computeQuery() %>%
-    dplyr::mutate(formula_id = dplyr::if_else(
+    dplyr::mutate(formula_name = dplyr::if_else(
       .data$days_exposed <= 0,
-      0,
-      .data$formula_id
+      as.character(NA),
+      .data$formula_name
     )) %>%
     DrugUtilisation:::standardUnits() %>%
     DrugUtilisation:::applyFormula() %>%
     dplyr::select(
-      "drug_concept_id", "daily_dose", "unit", "route", "pattern_id",
+      "drug_concept_id", "daily_dose", "unit", "pattern_id",
       "concept_id" =  "ingredient_concept_id"
     ) %>%
+    DrugUtilisation::addRoute() %>%
     dplyr::left_join(
       cdm[["concept"]] %>%
         dplyr::rename("ingredient_name" = "concept_name") %>%
@@ -52,7 +53,7 @@ dailyDosePatternCoverage <- function(cdm,
           group = list("ingredient_name"),
           includeOverallGroup = FALSE,
           strata = list(
-            "unit", c("unit", "route"), c("unit","route","pattern_id")
+            "unit", c("unit", "route"), c("unit", "route", "pattern_id")
           ),
           includeOverallStrata = TRUE,
           variables = "daily_dose",
