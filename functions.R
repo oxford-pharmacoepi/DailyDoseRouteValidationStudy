@@ -23,7 +23,8 @@ dailyDosePatternCoverage <- function(cdm,
     dplyr::left_join(
       DrugUtilisation:::drugStrengthPattern(
         cdm = cdm, ingredientConceptId = ingredientConceptId
-      ),
+      ) %>%
+        DrugUtilisation::addRoute(),
       by = "drug_concept_id"
     ) %>%
     CDMConnector::computeQuery() %>%
@@ -38,7 +39,6 @@ dailyDosePatternCoverage <- function(cdm,
       "drug_concept_id", "daily_dose", "unit", "pattern_id",
       "concept_id" =  "ingredient_concept_id"
     ) %>%
-    DrugUtilisation::addRoute() %>%
     dplyr::left_join(
       cdm[["concept"]] %>%
         dplyr::rename("ingredient_name" = "concept_name") %>%
