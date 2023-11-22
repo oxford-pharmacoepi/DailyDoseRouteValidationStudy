@@ -27,7 +27,7 @@ cdm$person %>%
 info(logger, 'CREATE SNAPSHOT')
 write.csv(
   x = snapshot(cdm),
-  file = here("Results", paste0("snapshot_", cdmName(cdm), ".csv")),
+  file = here(resultsFolder, paste0("snapshot_", cdmName(cdm), ".csv")),
   row.names = FALSE
 )
 
@@ -37,7 +37,7 @@ patternSummary <- patternTable(cdm) %>%
   addCdmName(cdm = cdm)
 write.csv(
   x = patternSummary,
-  file = here("Results", paste0("pattern_", cdmName(cdm), ".csv")),
+  file = here(resultsFolder, paste0("pattern_", cdmName(cdm), ".csv")),
   row.names = FALSE
 )
 info(logger, 'PATTERN FILE CREATED')
@@ -67,7 +67,7 @@ routeSummary <- cdm$drug_exposure %>%
   addCdmName(cdm = cdm)
 write.csv(
   x = routeSummary,
-  file = here("Results", paste0("route_", cdmName(cdm), ".csv")),
+  file = here(resultsFolder, paste0("route_", cdmName(cdm), ".csv")),
   row.names = FALSE
 )
 info(logger, 'ROUTE SUMMARISED')
@@ -78,7 +78,7 @@ ingredients <- c(956874, 1106776, 1137529, 1301025, 1503297, 1154029)
 doseCoverage <- dailyDosePatternCoverage(cdm, ingredients)
 write.csv(
   x = doseCoverage,
-  file = here("Results", paste0("dose_", cdmName(cdm), ".csv")),
+  file = here(resultsFolder, paste0("dose_", cdmName(cdm), ".csv")),
   row.names = FALSE
 )
 info(logger, 'DOSE COVERAGE END')

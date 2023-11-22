@@ -279,4 +279,4 @@ table_to_sort <- check_num2("numerator_17_exct")
 # Numerator_check does the numerator_value always equals one of the extracted "numerators"?
 numerator_check_result <- table_to_sort %>% dplyr::filter(numerator_check != 1)
 
-write.csv(numerator_check_result, file = here::here(resultsFolder,"numerator_check_result.csv"))
+write.csv(numerator_check_result, file = here::here(resultsFolder, "numerator_check_result.csv"))

@@ -53,14 +53,14 @@
     },
     "DrugUtilisation": {
       "Package": "DrugUtilisation",
-      "Version": "0.4.0",
+      "Version": "0.4.1",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "darwin-eu-dev",
       "RemoteRepo": "DrugUtilisation",
       "RemoteRef": "main",
-      "RemoteSha": "26648a0783275195b1b80f8ca3ca0d91d94bba12",
+      "RemoteSha": "3d99ebf870cfd42743bab3b0ee3b4b3db5bbee80",
       "Requirements": [
         "CDMConnector",
         "DBI",
@@ -78,7 +78,7 @@
         "rlang",
         "tidyr"
       ],
-      "Hash": "d001e04a4de55c072585f73dbe3bae1d"
+      "Hash": "a21ce4cee87327fdd100565a1d269462"
     },
     "MASS": {
       "Package": "MASS",
