@@ -42,18 +42,6 @@ write.csv(
 )
 info(logger, 'PATTERN FILE CREATED')
 
-# Pattern checks
-## we really only need the numerator check from IPCI
-tryCatch({
-  info(logger, 'DOING NUMERATOR CHECK')
-  source(here::here("numerator_check.R"))
-  info(logger, 'CHECKS DONE')
-},
-error = function(err) {
-  info(logger, 'NUMERATOR CHECK FAILED')
-  return(NULL)
-})
-
 # route ----
 info(logger, 'SUMMARY ROUTE')
 routeSummary <- cdm$drug_exposure %>%
