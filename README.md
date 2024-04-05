@@ -2,6 +2,10 @@
 
 In this project, we document our approach towards daily dose calculations, which comprises the establishment of drug strength pattern, clinical assessment, and comparison of calculated daily dose with WHO DDD.
 
+## Interested in the finished product and want to calculate dose for your own cohorts?
+You are in luck. The dose calculations were implemented in the R package DrugUtilisation. Just follow their vignettes on how to calculate dose here: 
+https://darwin-eu-dev.github.io/DrugUtilisation/
+
 ## Instructions to run the code
 Complete the connection details in `CodeToRun.R` and run it. Results will be zipped in the Results folder. 
 
