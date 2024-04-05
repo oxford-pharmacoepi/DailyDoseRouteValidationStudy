@@ -6,15 +6,15 @@ In this project, we document our approach towards daily dose calculations, which
 You are in luck. The dose calculations were implemented in the R package DrugUtilisation. Just follow their vignettes on how to calculate dose here: 
 https://darwin-eu-dev.github.io/DrugUtilisation/
 
-## Instructions to run the code
+## Instructions to run the study code reflecting the development
 Complete the connection details in `CodeToRun.R` and run it. Results will be zipped in the Results folder. 
 
-## Interested in what the code does?
+## Interested in what the development code does?
 The 'CodeToRun.R' sources the 'RunAnalysis.R' script that was used to obtain results as can be seen in the manuscript "Calculating daily dose in the Observational Medical Outcomes Partnership (OMOP) Common Data Model".
 
 In this script we create the drug strength pattern from which we also obtained the proportion of drug concepts for which we can estimate dose with our formulas (line 34), we add the route to the drug exposures (line 46), and we calculate the dose (line 63). 
 
-## other scripts in this repository
+## other scripts in this development repository
 We carried out three checks in the vocabulary. More information can be found in this OHDSI Europe symposium abstract (2023). https://www.ohdsi.org/wp-content/uploads/2023/10/Burkard_Theresa_DosePreparation_2023symposium-Theresa-Burkard-1.pdf
 
 The code in numerator_check.R contains the first check described:
