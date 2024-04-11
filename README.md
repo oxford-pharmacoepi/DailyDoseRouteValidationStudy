@@ -6,10 +6,10 @@ In this project, we document our approach towards daily dose calculations, which
 You are in luck. The dose calculations were implemented in the R package DrugUtilisation. Just follow their vignettes on how to calculate dose here: 
 https://darwin-eu-dev.github.io/DrugUtilisation/
 
-
-
 ## If you want to re-run our development code
 Complete the connection details in `CodeToRun.R` and run it. Results will be zipped in the Results folder. 
+Instructions of how to fill in your connection (depending on your database management system) can be found here: 
+https://darwin-eu.github.io/CDMConnector/articles/a04_DBI_connection_examples.html
 
 ## Interested in what the development code does?
 The 'CodeToRun.R' sources the 'RunAnalysis.R' script that was used to obtain results as can be seen in the manuscript "Calculating daily dose in the Observational Medical Outcomes Partnership (OMOP) Common Data Model".
